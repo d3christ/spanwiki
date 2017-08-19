@@ -8,13 +8,20 @@ TODO
 
 
 [Preprocessing 2009](preprocess09.md)
+
 [Regression 2009](regression09.md)
+
 [ttest 2009](ttest09.md)
 
+
 [ROI analysis](roi_analysis.md)
+
 [Timecourse Plotes](timecourses.md)
+
 [SVMRFE](svm.md)
+
 [Sherlock](sherlock.md)
+
 
 
 # Conferences, Publications, Funding
