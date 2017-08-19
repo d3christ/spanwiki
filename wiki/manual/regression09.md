@@ -1,4 +1,4 @@
-==Quick Reference==
+# Here's the header
 
 Here is an [http://www-psych.stanford.edu/~span/Scripts/midReg example regression script] to download.
 
