@@ -6,7 +6,16 @@ TODO
 
 # FMRI Data Analysis
 
-[Lab_Manual:FMRI_Data_Analysis & FMRI Data Analysis 2009](preprocess09.md)
+
+[Preprocessing 2009](preprocess09.md)
+[Regression 2009](regression09.md)
+[ttest 2009](ttest09.md)
+
+[ROI analysis](roi_analysis.md)
+[Timecourse Plotes](timecourses.md)
+[SVMRFE](svm.md)
+[Sherlock](sherlock.md)
+
 
 # Conferences, Publications, Funding
 
