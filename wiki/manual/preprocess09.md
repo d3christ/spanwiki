@@ -49,15 +49,14 @@ Read the output to find "Number of time steps". In the case of the "facegive" fu
 # Code Sample
 Here is an example of a full preprocess script (you can download this script [http://www-psych.stanford.edu/~span/Scripts/process here]):
 
-<font size = 3>
-<source lang="bash">
-\#! /bin/csh
+```
+#! /bin/csh
 
-\#----------------------------------------------------------------------#
-\# Preprocessing Script (hacked by hm 081914)
-\# 
-\# This script preprocesses the raw anatomical / functional data
-\#----------------------------------------------------------------------#
+#----------------------------------------------------------------------#
+# Preprocessing Script (hacked by hm 081914)
+# 
+# This script preprocesses the raw anatomical / functional data
+#----------------------------------------------------------------------#
 
 foreach subject ( ak090414 ) #ad090114 ag082014 ak082014 ay090214 be082714 
                   bk081914 bt082014 cc090114 dz082614 el081914 es082814 ju081914 jm082814 
@@ -137,5 +136,5 @@ foreach subject ( ak090414 ) #ad090114 ag082014 ak082014 ay090214 be082714
     3drefit -apar anat+orig facegive_dmbnf+orig
 
 end
-</source>
-</font>
+
+```
