@@ -3,7 +3,4 @@ Spanlab Wiki
 
 This is a the new span wiki
 
-## Intro
-
-### Preprocessing
-[www.google.com]
+[About the lab](.wiki/about.md)
