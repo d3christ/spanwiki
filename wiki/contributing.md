@@ -18,6 +18,7 @@ To make changes locally, you'll need to:
 3. Make all the local changes you'll need. 
 4. Add any new files with `git add *`
 5. Commit your changes (save them locally, but not online): `git commit -am "Include a description here." `
+5.5 do a `git pull`, since things may have changed on the server since you started editing. If you see that there are now conflicts, [fix them like so](https://stackoverflow.com/questions/161813/how-to-resolve-merge-conflicts-in-git)
 6. Push your changes (you have to commit first) `git push origin master`
 
 
