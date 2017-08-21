@@ -14,7 +14,7 @@ Our research seeks to elucidate the neural underpinnings of emotion. Our progres
 Our current focus has been on how affective circuits (affective neuroscience) influence mental health symptoms (neurophenomics) and choice (neuroeconomics). Our proactive view of affect differs from the traditional view of emotion, which emphasizes its' reactive nature.
 Thus, the phrase "anticipatory affect" refers to valenced and aroused emotions that occur when people are anticipating an uncertain outcome. We believe anticipatory affective states (i.e., positive and negative arousal) are best situated to influence upcoming behavior.
 
-# Overview of Research Process
+# Research Process
 
 Our research tends to this trajectory (the "diamond pipeline"):
 
