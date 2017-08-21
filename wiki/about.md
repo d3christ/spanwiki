@@ -16,12 +16,12 @@ Thus, the phrase "anticipatory affect" refers to valenced and aroused emotions t
 
 # Research Process
 
-Our research tends to this trajectory (the "diamond pipeline"):
+Our research tends to follow this trajectory (the "diamond pipeline"):
 
 BRAINSTORM IDEAS → SUBMIT PROPOSALS → BEHAVIORAL PILOTS → BEHAVIORAL STUDY → FMRI STUDY → DATA PROCESSING → DATA ANALYSIS → PUBLICATION → FAME AND FORTUNE (hopefully)
 
 Typical time through the pipeline is 2-3 years (estimates for each step to be added, as well as ideas for shortening).
 
-#Relevant Review#
+## Relevant Review
 
 Knutson, B., Greer, S. M. (2008). Anticipatory affect: Neural correlates and consequences for choice. Philosophical Transactions of the Royal Society B, 363, 3771-3786.[[http://www-psych.stanford.edu/~span/Publications/bk08prsb.pdf]]
