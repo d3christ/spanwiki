@@ -84,45 +84,24 @@ We use the afni function 3dDeconvolve to run the regression model.  Here is an e
 Inputs:
 
 * -input MIDAlln+orig
-
 **  This is the output of the process script that is normalized to % signal change. It is the brain data that is the input to the GLM.
-
 * -concat runs.1D
-
 **  runs.1D is file marking the starts of each of you blocks (example). This is used for modeling nuisance trends in your data separately for each block.
-
 **  If your task only contains one block, you should delete this input from your Reg script. If you don't, AFNI will show a bunch of errors and you won't be able to run 3DDeconvolve.
-
 * -nfirst 0
-
-** 
-
 * -num_stimts 12
-
 **  the number of stimulus files you are about to list.  Remember to update this if you change you model.
-
 * -polort 2
-
 ** means to model linear and quadratic nuisance trends.  Higher numbers than 2 would model higher order trends.
-
 * -stim_file 1 "antc.1D"
-
 ** Means use antc.1D as the first stimulus file. This will model the anticipation period of the task.
-
 * -stim_label 1 'ant'
-
 ** Means label the first stimulus file "ant" in the output.
-
 * -tout
-
 ** Means output t statistics
-
 * -fout
-
 ** Means output f statistics
-
 * -bucket midReg
-
 ** Means put everything in one afni file called "midReg"
 
 ## Converting to z-scores
