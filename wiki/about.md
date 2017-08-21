@@ -4,13 +4,13 @@ Our research seeks to elucidate the neural underpinnings of emotion. Our progres
 
 # Lab Goals
 
-*To characterize the anatomical trajectories of affective circuits in the brain.
-*To characterize how psychopharmacological (drug) manipulations modulate affective experience.
-*To understand how the function of these affective circuits is damaged in affective disorders and addiction.
-*To understand how psycho- and pharmaco- therapies can normalize damaged affective circuits.
-*To understand, by reducing the problem to its individual components, how affect
+* To characterize the anatomical trajectories of affective circuits in the brain.
+* To characterize how psychopharmacological (drug) manipulations modulate affective experience.
+* To understand how the function of these affective circuits is damaged in affective disorders and addiction.
+* To understand how psycho- and pharmaco- therapies can normalize damaged affective circuits.
+* To understand, by reducing the problem to its individual components, how affect
 ive circuitry modulates decision-making and economic behavior
-*To innovate and create new technologies and techniques for tracking affective dynamics in the brain.
+* To innovate and create new technologies and techniques for tracking affective dynamics in the brain.
 
 Basically, our current focus is on how emotion influences decisions (including financial) and mental health symptoms. 
 This proactive view differs from the traditional view of emotion, which emphasizes emotion's reactive nature. 

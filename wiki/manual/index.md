@@ -1,4 +1,6 @@
-==Lab Manual Index==
+Lab Manual Index
+
+Welcome to the SPANLAB manual. To understand how to modify the wiki, see the section on [contributing](contribute.md).
 
 
 # Subjects and Scanning
