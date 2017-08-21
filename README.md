@@ -7,4 +7,4 @@ This is a the new span wiki
 
 [Lab Manual](wiki/manual/index.md)
 
-To understand how to modify the wiki, see the section on [Contributing](contribute.md).
+To understand how to modify the wiki, see the section on [Contributing](wiki/contribute.md).

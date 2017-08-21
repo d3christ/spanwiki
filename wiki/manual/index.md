@@ -1,6 +1,5 @@
 Lab Manual Index
 
-Welcome to the SPANLAB manual. To understand how to modify the wiki, see the section on [contributing](contribute.md).
 
 
 # Subjects and Scanning
@@ -15,10 +14,9 @@ TODO
 
 [ttest 2009](ttest09.md)
 
-
 [ROI analysis](roi_analysis.md)
 
-[Timecourse Plotes](timecourses.md)
+[Timecourse Plots](timecourses.md)
 
 [SVMRFE](svm.md)
 
