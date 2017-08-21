@@ -24,4 +24,4 @@ Typical time through the pipeline is 2-3 years (estimates for each step to be ad
 
 ## Relevant Review
 
-Knutson, B., Greer, S. M. (2008). Anticipatory affect: Neural correlates and consequences for choice. Philosophical Transactions of the Royal Society B, 363, 3771-3786.[[http://www-psych.stanford.edu/~span/Publications/bk08prsb.pdf]]
+Knutson, B., Greer, S. M. (2008). Anticipatory affect: Neural correlates and consequences for choice. Philosophical Transactions of the Royal Society B, 363, 3771-3786. [[http://stanford.edu/group/spanlab/Publications/bk08prsb.pdf]]
