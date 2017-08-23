@@ -1,6 +1,6 @@
-## Lab Manual Index
+# Lab Manual Index
 
-# FMRI Data Analysis
+## FMRI Data Analysis
 
 [Preprocessing 2009](preprocess09.md)
 
@@ -16,11 +16,11 @@
 
 [Sherlock](sherlock.md)
 
-# Diffusion MRI Data Analysis
+## Diffusion MRI Data Analysis
 
 [Instructions to trace tracts between circuits relevant to the lab](https://github.com/josiahl/spantracts)
 
-# Publishing
+## Publishing
 
 [Authorship](authorship.md)
 
@@ -28,6 +28,7 @@
 
 # BELOW ARE SECTIONS FROM THE [OLD MANUAL](https://web.stanford.edu/group/spanlab/cgi-bin/wiki/index.php?title=Lab_Manual)
 # Subjects and Scanning
+
 TODO
 
 # Conferences, Publications, Funding
