@@ -1,4 +1,4 @@
-Lab Manual Index
+## Lab Manual Index
 
 # FMRI Data Analysis
 
