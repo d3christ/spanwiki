@@ -20,6 +20,12 @@ Lab Manual Index
 
 [Instructions to trace tracts between circuits relevant to the lab](https://github.com/josiahl/spantracts)
 
+# Publishing
+
+[Authorship](authorship.md)
+
+
+
 # BELOW ARE SECTIONS FROM THE [OLD MANUAL](https://web.stanford.edu/group/spanlab/cgi-bin/wiki/index.php?title=Lab_Manual)
 # Subjects and Scanning
 TODO
