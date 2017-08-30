@@ -19,6 +19,7 @@ although it is essential to determine lead authorship at the outset (which may n
 
 While determining contributions can present some ambiguity, recent journal guidelines which require stated contributions 
 have made the task more straightforward. Consider as an example the contributions section of a recently published paper from our lab: 
+
 "Author contributions: A.G., C.Y., and B.K. designed research; A.G. performed research; A.G. and B.K. analyzed data; 
 A.G., C.Y., and B.K. wrote the paper."
 
