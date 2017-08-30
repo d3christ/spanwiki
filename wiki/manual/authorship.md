@@ -1,8 +1,10 @@
 
 Determining Authorship: 
 
-Authorship can take one of three common formats: (1) Largest contribution first (e.g., Psychology); 
-(2) Lead author first, senior author last (e.g., Medicine); (3) Alphabetical (e.g., Economics). 
+Authorship can take one of three common formats: 
+(1) Largest contribution first (e.g., Psychology); 
+(2) Lead author first, senior author last (e.g., Medicine); 
+(3) Alphabetical (e.g., Economics). 
 We use a mix of (1) and (2; essentially, for the senior author). Historically, the lead author 
 typically has expended over 70% of the effort to get the paper from the idea to publication phase 
 (as well as subsequent promotion).
