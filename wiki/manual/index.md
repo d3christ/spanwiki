@@ -23,7 +23,9 @@
 ## Writing
 
 [Reviewing](reviewing.md)
+
 [Revising](revising.md)
+
 [Authorship](authorship.md)
 
 
