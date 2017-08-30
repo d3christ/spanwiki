@@ -20,8 +20,10 @@
 
 [Instructions to trace tracts between circuits relevant to the lab](https://github.com/josiahl/spantracts)
 
-## Publishing
+## Writing
 
+[Reviewing](reviewing.md)
+[Revising](revising.md)
 [Authorship](authorship.md)
 
 
