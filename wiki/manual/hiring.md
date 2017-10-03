@@ -5,17 +5,17 @@
 Interviewing can always be a difficult thing for both the interviewer and the interviewee.  The point of the interview is the adequately assess a candidate's potential to positively impact the lab.  SPANLAB often receives requests from current students and graduates who are interested in joining the team.  Before any final decision is made, it's important to sit down with the potential RA and make sure their commitment, experience, and personality is right for the job.
 
 # Questions You Might Want To Ask
+* How did you hear about the lab?
+* Have you read any of our recent publications?  If so, what did you think of our research?
+* Are there any projects in particular that you would be most interesting in assisting?
+* Do you have any previous research work?  
+* Who was your PI?  
+* What were your specific duties?
+* What other research skills would you bring to the table?
+* Coding? Statistical expertise? 
+* Can you give us an idea of your current time commitments for the next year?
+* How many hours per week can you dedicate to assisting with the lab?
 
-# How did you hear about the lab?
-# Have you read any of our recent publications?  If so, what did you think of our research?
-# Are there any projects in particular that you would be most interesting in assisting?
-# Do you have any previous research work?  
-## Who was your PI?  
-## What were your specific duties?
-# What other research skills would you bring to the table?
-## Coding? Statistical expertise? 
-# Can you give us an idea of your current time commitments for the next year?
-# How many hours per week can you dedicate to assisting with the lab?
 
 
 # Things to Discuss
