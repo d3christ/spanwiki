@@ -20,11 +20,11 @@ Interviewing can always be a difficult thing for both the interviewer and the in
 
 # Things to Discuss
 * Total Time Commitment
-** We usually look for 1-2 years of commitment on a regular schedule
-** The psychology department, UAL, and several other university programs can often provide funding for summer research
-** During the school year, students can sign up for credit (through Psych 171 or Psych 195)
+  * We usually look for 1-2 years of commitment on a regular schedule
+  * The psychology department, UAL, and several other university programs can often provide funding for summer research
+  * During the school year, students can sign up for credit (through Psych 171 or Psych 195)
 * What SPANLAB looks for
-** Independence
-*** Compared to a lot of other labs, we tend to give our RAs more responsibility.  As such, we often look for students who have a knack for independent study.  Ideally, we'd like to hire students who don't need too much hand-holding.
-** Creativity
-*** A lot of our projects are very unique in that there isn't a large foundation of previous research that we can draw from.  To that end, we are looking for innovators who are imaginative and can contribute new ideas to the lab.
+ * Independence
+    * Compared to a lot of other labs, we tend to give our RAs more responsibility.  As such, we often look for students who have a knack for independent study.  Ideally, we'd like to hire students who don't need too much hand-holding.
+* Creativity
+  * A lot of our projects are very unique in that there isn't a large foundation of previous research that we can draw from.  To that end, we are looking for innovators who are imaginative and can contribute new ideas to the lab.
