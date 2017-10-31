@@ -17,8 +17,9 @@ pip install pip_requirements.txt
 python setup.py install
 ```
 
-## On sherlockml python
+## On sherlock
 ```
+ml python
 easy_install --user pip
 python -m pip install --user --upgrade pip
 python -m pip install --user --upgrade virtualenv
