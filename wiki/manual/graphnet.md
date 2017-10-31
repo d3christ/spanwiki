@@ -17,7 +17,19 @@ pip install pip_requirements.txt
 python setup.py install
 ```
 
+## On sherlockml python
+```
+easy_install --user pip
+python -m pip install --user --upgrade pip
+python -m pip install --user --upgrade virtualenv
+python -m virtualenv venv
+source venv/bin/activate
+pip install -r pip_requirements.txt
+python setup.py install
+```
+
 # Usage 
+
 
 Once you've done that, go ahead and check out graphnet_sa/example_runner.py for an example script. 
 
