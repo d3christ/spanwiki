@@ -14,6 +14,8 @@
 
 [SVMRFE](svm.md)
 
+[Graphnet](graphnet.md)
+
 [Sherlock](sherlock.md)
 
 ## Diffusion MRI Data Analysis
