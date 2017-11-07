@@ -19,4 +19,4 @@ While determining contributions presents some ambiguity, recent journal guidelin
 
 Based on the logic of formats (1) and (2) above, A.G. is the lead author (first = greatest contribution), and B.K. the senior author (last). Other authors fall in between in order of contribution (in rare cases in which there are more than one lead authors who have contributed equally, this can be denoted with an asterisk and a footnote).
 
-The definition of a contribution also has some ambiguity, but traditionally has meant making a critical contribution (without which the work could not be done) in at least one of the above categories (designing, performing, analyzing, writing) and ideally seeing the project through to publication.
+The definition of a contribution also has some ambiguity, but traditionally has meant making a critical contribution (without which the work could not be done) in one or more of the above categories (designing, performing, analyzing, writing) and ideally seeing the project through to publication.
