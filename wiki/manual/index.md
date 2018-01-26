@@ -10,6 +10,8 @@
 
 [ROI analysis](roi_analysis.md)
 
+[Common VOIs](voi_stats.md)
+
 [Timecourse Plots](timecourses.md)
 
 [SVMRFE](svm.md)
@@ -34,6 +36,13 @@
 ## Admin
 
 [Hiring](hiring.md)
+
+## Scanning
+[Scanning] (cni.md)
+
+[Lucas Center](lucas.md)
+
+
 # BELOW ARE SECTIONS FROM THE [OLD MANUAL](https://web.stanford.edu/group/spanlab/cgi-bin/wiki/index.php?title=Lab_Manual)
 # Subjects and Scanning
 
