@@ -10,6 +10,8 @@
 
 [ROI analysis](roi_analysis.md)
 
+[Common VOIs](voi_stats.md)
+
 [Timecourse Plots](timecourses.md)
 
 [SVMRFE](svm.md)
