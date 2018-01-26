@@ -2,6 +2,8 @@
 
 ## FMRI Data Analysis
 
+[Syncing Data from Nims](nimssync.md)
+
 [Preprocessing 2009](preprocess09.md)
 
 [Regression 2009](regression09.md)
