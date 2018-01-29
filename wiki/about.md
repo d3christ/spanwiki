@@ -6,7 +6,7 @@
 5. [Who's Who?](#whos-who)
 6. [How do I get started?](#get-started)
 7. [What's where](#whats-where)
-8. [Areas of the Brain We are Interested In](#brain-areas)
+8. [Brain Regions of Interest](#brain-regions)
 
 <a name="lab-activities"></a>
 ## Lab Activities
@@ -189,8 +189,8 @@ For staff RA’s, STAP fund reimbursements that aren’t for Stanford classes sh
 Multimedia room 361 has a slide scanner and other multimedia stuff. Go here to scan in papers or bills. You'll need to get Harry, the building manager, to program your ID card so that you can get into this room.
 <br><br>
 
-<a name="brain-areas"></a>
-## Areas of the Brain We are Interested In 
+<a name="brain-regions"></a>
+## Brain Regions of Interest 
 
 The reward circuitry we've focused on consists of the medial prefrontal cortex, the ventral tegmental area, and the ventral striatum (which consists, in turn, of the caudate nucleus, the putamen, the nucleus accumbens (NAcc), and the fundus, which links the latter two ventrally). These names will mean more to you shortly if you’re unfamiliar with anatomy.
 
