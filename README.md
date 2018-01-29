@@ -1,6 +1,6 @@
-# spanwiki
+# SpanWiki
 
-This is a the new span wiki
+This is the new Span Wiki
 
 [About the lab](wiki/about.md)
 
