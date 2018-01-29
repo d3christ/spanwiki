@@ -45,7 +45,7 @@
 [Lucas Center](lucas.md)
 
 
-## [Old Manual](old-manual/old-manual-index)
+## [Old Manual](old-manual/old-manual-index.md)
 # BELOW ARE SECTIONS FROM THE [OLD MANUAL](https://web.stanford.edu/group/spanlab/cgi-bin/wiki/index.php?title=Lab_Manual)
 # Subjects and Scanning
 
