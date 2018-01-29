@@ -9,7 +9,7 @@ __Contents__
 
 <a name="introduction"></a>
 ### Introduction & Resources
-[Lab Introduction](wiki/about.md)
+[Lab Introduction](intro-and-resources/lab-intro.md)
 
 <a name="subjects-scanning"></a>
 ### Subjects & Scanning
