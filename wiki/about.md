@@ -14,7 +14,8 @@
 Our research seeks to elucidate the neural underpinnings of emotion. Our progress ultimately relies upon a symbiosis of Psychological theory and Neuroscience methods.
 <br><br>
 
-## Lab Goals <a name="lab-goals"></a>
+<a name="lab-goals"></a>
+## Lab Goals
 
 - To characterize the anatomical trajectories of affective circuits in the brain.
 - To characterize how psychopharmacological (drug) manipulations modulate affective experience.
@@ -27,7 +28,8 @@ Our current focus has been on how affective circuits (affective neuroscience) in
 Thus, the phrase "anticipatory affect" refers to valenced and aroused emotions that occur when people are anticipating an uncertain outcome. We believe anticipatory affective states (i.e., positive and negative arousal) are best situated to influence upcoming behavior.
 <br><br>
 
-## Research Process <a name="research-process"></a>
+<a name="research-process"></a>
+## Research Process 
 
 Our research tends to follow this trajectory (the "diamond pipeline"):
 
@@ -36,12 +38,14 @@ BRAINSTORM IDEAS → SUBMIT PROPOSALS → BEHAVIORAL PILOTS → BEHAVIORAL STUDY
 Typical time through the pipeline is 2-3 years (estimates for each step to be added, as well as ideas for shortening).
 <br><br>
 
-## Relevant Review <a name="relevant-review"></a>
+<a name="relevant-review"></a>
+## Relevant Review 
 
 Knutson, B., Greer, S. M. (2008). Anticipatory affect: Neural correlates and consequences for choice. Philosophical Transactions of the Royal Society B, 363, 3771-3786. http://stanford.edu/group/spanlab/Publications/bk08prsb.pdf
 <br><br>
 
-## Who's Who? <a name="whos-who"></a>
+<a name="whos-who"></a>
+## Who's Who? 
 
 __Principal Investigator:__ Brian Knutson
 - Gets money
@@ -66,7 +70,8 @@ __Administrative Assistant:__ Deanna Perez
 - Mails and faxes
 <br><br>
 
-## How do I get started? <a name="get-started"></a>
+<a name="get-started"></a>
+## How do I get started? 
 
 #### Undergraduates
 - Take some serious time over the course of a week or two to read Scott Huettel’s Functional Magnetic Resonance Imaging textbook. Aside from some unavoidably gnarly physics, it’s well-written and accessible to readers, even those with very little background in psychology or biology. Don’t worry about retaining everything; a good once-through will make what we do here in the lab a lot more understandable.
@@ -184,7 +189,8 @@ For staff RA’s, STAP fund reimbursements that aren’t for Stanford classes sh
 Multimedia room 361 has a slide scanner and other multimedia stuff. Go here to scan in papers or bills. You'll need to get Harry, the building manager, to program your ID card so that you can get into this room.
 <br><br>
 
-## Areas of the Brain We are Interested In <a name="brain-areas"></a>
+<a name="brain-areas"></a>
+## Areas of the Brain We are Interested In 
 
 The reward circuitry we've focused on consists of the medial prefrontal cortex, the ventral tegmental area, and the ventral striatum (which consists, in turn, of the caudate nucleus, the putamen, the nucleus accumbens (NAcc), and the fundus, which links the latter two ventrally). These names will mean more to you shortly if you’re unfamiliar with anatomy.
 
