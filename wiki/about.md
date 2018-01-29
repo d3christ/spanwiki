@@ -1,6 +1,6 @@
 ## Lab Activities
 
-Our research seeks to elucidate the neural underpinnings of emotion. Our progress ultimately relies upon a Symbiosis of Psychological theory And Neuroscience methods.
+Our research seeks to elucidate the neural underpinnings of emotion. Our progress ultimately relies upon a symbiosis of Psychological theory and Neuroscience methods.
 
 
 
