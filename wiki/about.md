@@ -111,8 +111,142 @@ __MacBook (‘insula’ –knutson@insula.stanford.edu):__ Insula is the main st
 
 __dmthal:__ A fast Linux workstation (from summer 2005). This computer replaced mpfc as the primary computer for data processing and storage. It contains a dual-core processor and 500GB+ of storage. New studies will go on this computer (until it is retired).
 
-#### Filing cabinet:
+__Filing cabinet:__
 - 1st drawer – pens, pins, other supplies.
 - 2nd drawer – copies of consent forms and payment sheets.
 - 3rd drawer – subject folders (one folder for every subject scanned, containing questionnaires and consent).
 - 4th drawer – file folders.
+
+__Bookshelf:__ Software CDs, Software manuals, other books deemed useful (e.g. UNIX for dummies). Also, CDs for programs and drivers. The E-Prime manuals and CD should be on the bookshelf in this room (note in 10/2006 these manuals disappeared! – prize for recovery).
+
+__iBook:__ the bookshelf usually holds a stripped down MacOS X laptop. Use it for SPSS, Deltagraph, or for connecting to the Linux computers (it is networked wirelessly so you don’t need to plug it in anywhere).
+
+__Room 467:__ 467 is an auxiliary lab room used for behavioral experiments and task design in E-Prime. There is a windows desktop that you can use with the serial button box. There are also two laptops, a lenovo thinkpad running windows for e-prime and a macbook that can be used in windows mode for e-prime or in regular mode for psychtoolbox based experiments. These laptops can be used with the usb button box.
+
+__Room 470:__ Brian’s office. This is where the intellectual magic happens. (contains span@mpfc computer)
+
+__Rooms 469, 478, and 480:__ Grad student and RA offices. More magic. Room 480 holds a Linux workstation called amygdala that is for general lab use. (478 currently holds span@nac (with J. Cooper)).
+
+__Lucas Center:__ We scan with the 1.5 Tesla magnet and the 3 Tesla magnet, but by and large we use the 1.5T. If you’re scanning, you should have someone show you where everything is. Make sure that one of you has a swipe card with which to get in.
+
+Keep in mind that you’ll need to bring consent forms, questionnaires, and payment forms. If you ever forget to bring anything, there may be extras in the knutson drawer in the prep room outside the magnet room (1.5T only). If you take extras try to replenish the supply the next chance you get. Also, if the bite bar goop is going low, check with the lab manager or check on top of the brown bookcase in rm 465. The windows computer in the first room (closest to the lobby reception area) can connect to the scanner computer and is used to grab data and transfer it to the spanlab computers (use SecureFX to connect). Follow instructions on the wall next to the computer to grab data files from the scanner computer (use get11 for structurals, SecureFX to lcmr1 for functionals at the 1.5T – also see the scanning protocol in a later section of this manual).
+
+__Kitchen Facilities:__ We share kitchen space with the rest of the fourth floor. As you exit the lab coordinator’s office, turn left, and left again. Walk past the water fountain, then turn right. You’ll find a small kitchen space (communal fridge, microwave, sink) and a table. Please label your food and don’t let it become the source of a CDC level 3 quarantine.
+
+__Other:__ dmthal and amygdala (the main Linux stations), mpfc, and nacc (with older data) can be accessed remotely from any computer.
+
+
+### Lab Contact Information
+
+ - Lab phone, Room 465: 650.725.5688
+
+ - Fax on the 3rd floor, Room 329: 650.725.5699
+
+450 Serra Mall, Bldg 420 Jordan Hall Stanford, California, 94305-8620
+
+Stanford Mail Code: 2130
+
+To send mail via inter-departmental mail, address your envelope with the recipient’s name, office, and Stanford mail code. There’s a labeled drop basket around the wall on the left of the receptionist’s desk.
+
+To send US mail, also see the box to the left of the receptionist. To send via Fedex, usually just leave the (labeled) package down with the receptionist to be picked up – if you need shipping labels, talk to the current admin assistant (Erlinda). There’s a USPS office conveniently located in White Plaza next to the book store (a 10 minute walk).
+
+#### Making phone calls
+
+__To dial on campus:__ On-campus phone numbers beginning with 723, 724, or 725 can be reached from any other campus phone by dialing the last five digits of the number only. (For example, on campus you can dial 3-1888 to reach 650 723 1888.)
+
+__To dial off-campus:__ Dial 9, then 1, the area code, and phone number, as appropriate (for local calls you can obviously omit the “1”). The system will ask you for a pin number. The pin number is located in the phone cradle. Be sure to include the # sign at the end.
+
+Also note that if you’re calling subjects, you may want to press \*82 before dialing 9 + their number. \*82 will allow the subject to see who is calling on caller ID. If you forget to press \*82, you will show up as a blocked number, or may not be able to get through at all. (Some people block blocked numbers; others simply don’t answer if they can’t see who it is.)
+
+#### Printing
+The HP 2500 printer in the main office can be added to your print options on a Mac by going to System Preferences → Print and Fax → click on the plus sign on the lefthand side just under the printer box → Protocol: Internet Printing Protocol | Address: 172.24.204.128 | Queue: leave blank for default queue | Name: spanlab.stanford.edu | Location: spanlab.stanford.edu. Not completely sure on the paper sheet number or the memory size, but I just set it to 250 and the smallest mem size and it worked fine.
+
+Copying The main copy room is located in the Basement. You can access it with your Stanford ID card (Talk to Harry Bahlman, the Building manager, if you need access). To make copies you need our lab copy code: 11125. If the material you are copying is course related (syllabus, exams, etc) use code: 22681.
+
+#### Purchasing
+If you need to purchase anything, talk to the lab coordinator. If it is lab related (and not, say, junk food or dvds for a study) then we can put it on our lab P-Card held by the admin (Erlinda). Use the P-Card for online checkouts and also for bookstore purchases – remember to notify bookstore employees beforehand so they can take make the appropriate discounts. We can also use it for furnishings (e.g. Ikea). There are other more complicated/loose procedures for reimbursing other purchases – talk to the lab coordinator.
+
+#### Recycling
+There are currently no recycling bins in the lab, per se. There are, however, large recycling bins for paper and containers in the east stairwell and in the hallway that runs east-west down the center of the department. Recycling bins for used batteries and CDs are located in the photocopy room in the basement.
+
+#### Reimbursements
+Travel reimbursements are handled on a case-by-case basis and should be discussed with the PI and lab coordinator (and then likely admin assistant) first. There are other more complicated/loose procedures for reimbursing other purchases – talk to the lab coordinator.
+
+For staff RA’s, STAP fund reimbursements that aren’t for Stanford classes should be handled through the admin assistant (Erlinda) – do that so you don’t bang your head for hours on the Oracle system to reimburse your conference fees.
+
+#### (Paper) Scanning
+Multimedia room 361 has a slide scanner and other multimedia stuff. Go here to scan in papers or bills. You'll need to get Harry, the building manager, to program your ID card so that you can get into this room.
+
+
+## Areas of the Brain We are Interested In
+
+The reward circuitry we've focused on consists of the medial prefrontal cortex, the ventral tegmental area, and the ventral striatum (which consists, in turn, of the caudate nucleus, the putamen, the nucleus accumbens (NAcc), and the fundus, which links the latter two ventrally). These names will mean more to you shortly if you’re unfamiliar with anatomy.
+
+What roles do these structures play in the reward circuitry? Where are they located relative to one another?
+
+### Nucleus accumbens (NAcc)
+
+Nucleus accumbens (Nacc) [10, 12, -2]: The NAcc is located inferior to the caudate at the bottom of the internal capsule (the white line separating the caudate from the putamen). This is easiest to see in the coronal view. We see Nacc activation when subjects are anticipating gain, whether it’s anticipation of winning something (money, material goods, tasty food or drink), or simply thinking positively about themselves in the future – in other words, anticipation of an improved future self.
+
+See:
+_Knutson, B., Fong, G. W., Adams, C. S., & Hommer, D. (2001).
+Knutson, B., Rick, S., Wimmer, G. E., Prelec, D., Loewenstein, G. (2007).
+Knutson, B., Wimmer, G. E., Kuhnen, C. M., Winkielman, P. (2008)._
+
+[Figure 1. Coronal view of the striatum.]
+[Figure 2. Area delineations]
+
+### Medial prefrontal cortex (MPFC)
+
+Medial prefrontal cortex (MPFC) [+/-4, 50, -4]: The mpfc is a bit trickier to locate. Generally speaking, you want to look for a “crooked” gyrus approximately midway between the anterior edge and the corpus callosum; as a rule of thumb it’s approximately three gyri up if you’re viewing it axially. The MPFC is activated in response to doing something related to good outcomes for you. (You expected something good to happen, did it?) Another hypothesis is that it’s doing something related to self vs other. We also see more activation here in response to cues subjects have been told signal a higher probability of winning relative to other cues (for less probable outcomes).
+
+See: 
+_Knutson, B., Fong, G. W., Adams, C. S., & Hommer, D. (2001).
+Knutson, B., Fong, G. W., Bennett, S. M., Adams, C. S., & Hommer, D. (2003).
+Knutson, B., Rick, S., Wimmer, G. E., Prelec, D., Loewenstein, G. (2007)._
+
+[MPFC.jpg]
+
+In this image the subject’s nose has wrapped around to the other side of the image. We’re not sure why this happens, but it’s no big deal as it has no effect on your data processing.
+
+### Ventral Tegmental Area (VTA)
+
+Ventral tegmental area (VTA) [0, ?14?, -16]: In figure 4 the cross hairs are resting on the lower (inferior) margin of the VTA (just above the brain stem protrusion below it). The VTA creates a unique U- or V-shape visible in the axial view (this is a good way to check that you’re on-target); see figure 4b for a good look at this. Midbrain dopamine neurons that originate in the VTA fire in response to unexpected (but not expected?) rewards and in response to reward cues. These neurons project onto other, more distant regions, including the striatum and the mpfc. The neurons, also known as subcortical or midbrain dopamine neurons, release dopamine during rewards and during reward prediction. The amygdala, ventral striatum, OFC (orbito frontal cortex), and MPFC are all enervated by mesolimbic dopamine projected neurons. For more on dopamine function, see Knutson, 2007: Linking Nucleus accumbens dopamine and blood oxygenation.
+
+See: _Knutson, B., Westdorp, A., Kaiser, E., & Hommer, D. (2000)._
+
+[VTA1.jpg]
+[VTA2.jpg]
+[Dopa.jpg]
+
+### Dorsal Caudate
+Dorsal caudate: The dorsal caudate is the most superior (dorsal) part of the caudate. It is thought to link reward to behavior. Perception of a causal relationship between movements and outcomes causes activation here.
+
+See: _Knutson, B., Westdorp, A., Kaiser, E., & Hommer, D. (2000)._
+
+[Dorsalcaudate.jpg]
+
+### Anterior Cingulate Cortex
+
+We also observe anterior cingulate activation for things that are risky or cause mental conflict (consideration of gains and losses); in other words, the anterior cingulate seems to be involved in risk assessment.
+
+See: _Knutson, B., Westdorp, A., Kaiser, E., & Hommer, D. (2000)._
+
+[Acc.jpg]
+
+### What does activation look like?
+Once you’ve processed, smoothed, and run your models on your data, you’ll be able to view volumes (a volume is the full-brain, 3D set of images constructed from the 2D images – one full brain = one volume) that consist of your functional data overlaid on your anatomical images. They will look something like this:
+
+[Doublecaudate.jpg]
+
+The image on the left shows significant activation in the dorsal caudate. The image on the right (same subject, different contrast) is more difficult to determine – it’s most likely a combination of putamen and caudate, but the data has smeared over the internal capsule due to (a) averaging across subjects and (b) limitations on our resolution (a voxel is currently ~ 4mm to each side). The internal capsule is a tract of white matter, and thus shouldn’t show a BOLD response (only grey matter does so).
+
+Note that the activation here is smoothed. When you first look at it the data will probably look unsmoothed or "blocky" – smoothed vs unsmoothed viewing is an option in AFNI (see the AFNI section, page X).
+
+The images above have had noise outside the brain removed. Your data may not be so pretty. It may, in fact, appear to have all sorts of alarming ‘activations’ outside the brain.
+
+These 'activations' are due to inhomogeneities in the magnetic field outside the brain, and do not necessarily indicate that there’s anything wrong with your data. The MRI machine has been perfectly calibrated to look at (a) the volume of space occupied by the brain and (b) organic material. Correlated activations outside the brain could be due to muscle movement, peripheral movement, 'ghosting' (reflection of internal activity outside), outliers, or simply setting your threshold too low.
+
+If ever you’re not sure whether your region of activation is in one region of the brain or another, AFNI has a neat little widget that allows you to check. Right click the image, then click on “Where am I?” You should also check with Brian, as AFNI isn’t foolproof and it’s good to have a second pair of eyes.
+
+So those are the regions of interest with which the lab concerns itself. [Future directions]
