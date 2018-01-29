@@ -8,8 +8,8 @@
 7. [What's where](#whats-where)
 8. [Areas of the Brain We are Interested In](#brain-areas)
 
-
-## Lab Activities <a name="lab-activities"></a>
+<a name="lab-activities"></a>
+## Lab Activities
 
 Our research seeks to elucidate the neural underpinnings of emotion. Our progress ultimately relies upon a symbiosis of Psychological theory and Neuroscience methods.
 <br><br>
@@ -102,7 +102,8 @@ __Administrative Assistant:__ Deanna Perez
 - You’ll also want to make sure you’re comfortable with EPrime (a popular psychology experiment package that allows you to create experiment modules on the computer -- we use this for the stimuli subjects see while in the scanner) and the Linux environment.
 <br><br>
 
-## What's where? <a name="whats-where"></a>
+<a name="whats-where"></a>
+## What's where?
 
 SPAN lab is small in physical size and big on ideas. The lab space can be broken into four areas: room 465 (the main SPAN lab room), room 467 (the SPAN experiment room), the Lucas Center (this is where we scan, it’s located at the Med School), and grad student offices.
 
