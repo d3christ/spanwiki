@@ -1,8 +1,17 @@
+# Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+
+## Example
+## Example2
+## Third Example
+
+
 ## Lab Activities
 
 Our research seeks to elucidate the neural underpinnings of emotion. Our progress ultimately relies upon a symbiosis of Psychological theory and Neuroscience methods.
-
-
+<br><br>
 
 ## Lab Goals
 
@@ -15,8 +24,7 @@ Our research seeks to elucidate the neural underpinnings of emotion. Our progres
 
 Our current focus has been on how affective circuits (affective neuroscience) influence mental health symptoms (neurophenomics) and choice (neuroeconomics). Our proactive view of affect differs from the traditional view of emotion, which emphasizes its' reactive nature.
 Thus, the phrase "anticipatory affect" refers to valenced and aroused emotions that occur when people are anticipating an uncertain outcome. We believe anticipatory affective states (i.e., positive and negative arousal) are best situated to influence upcoming behavior.
-
-
+<br><br>
 
 ## Research Process
 
@@ -25,14 +33,12 @@ Our research tends to follow this trajectory (the "diamond pipeline"):
 BRAINSTORM IDEAS → SUBMIT PROPOSALS → BEHAVIORAL PILOTS → BEHAVIORAL STUDY → FMRI STUDY → DATA PROCESSING → DATA ANALYSIS → PUBLICATION → FAME AND FORTUNE (hopefully)
 
 Typical time through the pipeline is 2-3 years (estimates for each step to be added, as well as ideas for shortening).
-
-
+<br><br>
 
 ## Relevant Review
 
 Knutson, B., Greer, S. M. (2008). Anticipatory affect: Neural correlates and consequences for choice. Philosophical Transactions of the Royal Society B, 363, 3771-3786. http://stanford.edu/group/spanlab/Publications/bk08prsb.pdf
-
-
+<br><br>
 
 ## Who's Who?
 
@@ -57,8 +63,7 @@ __Administrative Assistant:__ Deanna Perez
 - Financially reimburses
 - Purchases
 - Mails and faxes
-
-
+<br><br>
 
 ## How do I get started?
 
@@ -94,8 +99,7 @@ __Administrative Assistant:__ Deanna Perez
 - To run human subjects, you need to complete the university’s human subjects use course, which is run by CITI.
 - You’ll also want to read about the rules and regulations particular to Stanford in the Research Policy Handbook (http://www.stanford.edu/dept/DoR/rph/Chpt7.html/), and on the Stanford Human Subjects Research page (http://humansubjects.stanford.edu/)
 - You’ll also want to make sure you’re comfortable with EPrime (a popular psychology experiment package that allows you to create experiment modules on the computer -- we use this for the stimuli subjects see while in the scanner) and the Linux environment.
-
-
+<br><br>
 
 ## What's where?
 
@@ -176,7 +180,7 @@ For staff RA’s, STAP fund reimbursements that aren’t for Stanford classes sh
 
 #### (Paper) Scanning
 Multimedia room 361 has a slide scanner and other multimedia stuff. Go here to scan in papers or bills. You'll need to get Harry, the building manager, to program your ID card so that you can get into this room.
-
+<br><br>
 
 ## Areas of the Brain We are Interested In
 
