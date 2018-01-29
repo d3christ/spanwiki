@@ -1,3 +1,5 @@
+[Old Manual Wiki](https://web.stanford.edu/group/spanlab/cgi-bin/wiki/index.php?title=Lab_Manual)
+
 __Contents__
 1. [Introduction & Resources](#introduction)
 2. [Subjects & Scanning](#subjects-scanning)
