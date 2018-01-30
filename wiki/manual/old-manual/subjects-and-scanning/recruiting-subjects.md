@@ -10,19 +10,24 @@ You can find Stanford University seals, and other useful images at: http://www.s
 _Note: handouts ineffective unless handed out._
 
 ## Screening Subjects
-MRI and lab by phone\
+MRI and lab by phone
+
 Consent and training in the lab
 
 ## How to run subjects
-Train subjects with a small version of the task\
-Then scan (with instructions / ratings)\
+Train subjects with a small version of the task
+
+Then scan (with instructions / ratings)
+
 Behavioral assessments
 
 _Note: get .doc script example from alex -- he was able to run 10 subjects in a day by letting scanning and pre/post-prep overlap between subjects._
 
 ## How to log subjects
-Get brain (cni) and behavior (google drive) in same directory\
-Naming conventions: study iv and dv (e.g., `fmrifund`), subject initials and data (e.g., `ms150930`)\
+Get brain (cni) and behavior (google drive) in same directory
+
+Naming conventions: study IV and DV (e.g., `fmrifund`), subject initials and data (e.g., `ms150930`)
+
 Subject logs can be kept remotely, but eventually print and put in brown book
 
 ## Subject Directions
