@@ -19,7 +19,7 @@ You can find Stanford University seals, and other useful images at: http://www.s
   - Qualtrics (survey)
   - Sona (department-behavior, potential issue with belief)
   - Mailing lists: The lab will be making 'gold' and 'gray' lists for good, reusable subjects and one's who aren't...
-  - We can use professional samplers to find subjects of a certain demographic at $100 / per head.\
+  - We can use professional samplers to find subjects of a certain demographic at $100 / per head.
 
 _Note: handouts ineffective unless handed out._
 
