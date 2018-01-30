@@ -18,7 +18,7 @@
 [Advance Clearances](subjects-and-scanning/advance-clearances.md)\
 [Recruiting Subjects](subjects-and-scanning/recruiting-subjects.md)\
 [Lucas Center Rules and Policies](subjects-and-scanning/lucas-center-rules-policies.md)\
-[Scanning Procedures]()\
+[Scanning](subjects-and-scanning/scanning.md)\
 [DTI Scanning Protocol]()
 
 <a name="data-analysis"></a>
