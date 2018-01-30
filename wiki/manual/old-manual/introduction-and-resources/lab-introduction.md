@@ -1,3 +1,5 @@
+# Lab Introduction
+
 ## Contents
 1. [Lab Activities](#lab-activities)
 2. [Lab Goals](#lab-goals)
