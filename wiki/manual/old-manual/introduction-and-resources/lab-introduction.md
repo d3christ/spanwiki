@@ -1,7 +1,7 @@
 ## Table of Contents
 1. [Lab Activities](#lab-activities)
 2. [Lab Goals](#lab-goals)
-3. [Research Process](#research-process)
+3. [Overview of Research Process](#research-process)
 4. [Relevant Review](#relevant-review)
 5. [Who's Who?](#whos-who)
 6. [How do I get started?](#get-started)
@@ -29,7 +29,7 @@ Thus, the phrase "anticipatory affect" refers to valenced and aroused emotions t
 <br><br>
 
 <a name="research-process"></a>
-## Research Process 
+## Overview of Research Process 
 
 Our research tends to follow this trajectory (the "diamond pipeline"):
 
