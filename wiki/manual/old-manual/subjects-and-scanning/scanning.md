@@ -7,19 +7,18 @@ For recruiting see the recruiting section of the manual. If you are using sona, 
 
 Before contacting a potential participant, check the SPAN Lab Gray List, which documents potentially problematic participants. You can access this list by logging into Google Docs and viewing the SPAN Lab Scanning Participant Gray List:
 
-go to http://www.google.com/documents
+- Go to http://www.google.com/documents
+  - __Name:__ "spanlab"
+  - __Password:__ balnaps
+  - When done, logout
 
-name: "spanlab"
-password: balnaps
-when done, logout
 Make sure to screen all of your subjects before the scan using the magnet screening form and the span lab screening form.
 
 You must also have your subject check the magnet screening form at the scanner the day of the scan, even though you already went over the form on the phone.
 
 Add the event to the lab calendar:
 
-go to http://www.google.com/calendar
-
-name: "spanlab"
-password: balnaps
-when done, logout
+- Go to http://www.google.com/calendar
+  - __Name:__ "spanlab"
+  - __Password:__ balnaps
+  - When done, logout
