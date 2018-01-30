@@ -3,12 +3,12 @@
   2. [How (for the general lab)](#how1)
   3. [How (for bipo-rewards study only)](#how2)
 
-<a name="when"><a/>
+<a name="when"></a>
 ## When
 Clearances need to be done before 6 months after receiving an advance for human subjects payments.
 For the general lab grants, Erlinda will send the lab manager an e-mail about a week before the advances are due.
 
-<a name="how1"><a/>
+<a name="how1"></a>
 ## How (for the general lab)
   1. First find out from Erlinda how much the original advance was for and which grant the advance came from.
   2. Go through the payment binder, identify the studies that should be covered by the given grant, and then collect enough payment receipts from these studies to add up to the advance amount.
@@ -16,7 +16,7 @@ For the general lab grants, Erlinda will send the lab manager an e-mail about a 
   4. Make copies of all of the forms to keep in the lab.
   5. Turn in all the original forms to Erlinda. If the forms do not add up exactly to the amount, you will also need to write a check (often a very small check) from the spanlab account to cover the remaining funds.
 
-<a name="how2"><a/>
+<a name="how2"></a>
 ## How (for bipo-rewards study only)
 ### Organize Human Subjects Payment Receipts
   1. Cut up (if necessary) and alphabetize your human subjects receipts and tape them to blank pages in alphabetical order by last name.
