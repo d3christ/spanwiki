@@ -2,13 +2,11 @@
   1. [When](#when)
   2. [How (for the general lab)](#how1)
   3. [How (for bipo-rewards study only)](#how2)
-<br><br>
 
 <a name="when"><a/>
 ## When
 Clearances need to be done before 6 months after receiving an advance for human subjects payments.
 For the general lab grants, Erlinda will send the lab manager an e-mail about a week before the advances are due.
-<br><br>
 
 <a name="how1"><a/>
 ## How (for the general lab)
@@ -17,7 +15,6 @@ For the general lab grants, Erlinda will send the lab manager an e-mail about a 
   3. Always check and double check to make sure that every receipt has a SSN on the top. If it does not, you can not turn it in with the advance. You will have to try to look it up on the consent form or re-contact the subject to try to get the number.
   4. Make copies of all of the forms to keep in the lab.
   5. Turn in all the original forms to Erlinda. If the forms do not add up exactly to the amount, you will also need to write a check (often a very small check) from the spanlab account to cover the remaining funds.
-<br><br>
 
 <a name="how2"><a/>
 ## How (for bipo-rewards study only)
