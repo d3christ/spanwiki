@@ -16,7 +16,7 @@
 <a name="subjects-scanning"></a>
 ### Subjects & Scanning
 [Advance Clearances](subjects-and-scanning/advance-clearances.md)\
-[Recruiting Subjects]()\
+[Recruiting Subjects](subjects-and-scanning/recruiting-subjects.md)\
 [Lucas Center Rules and Policies]()\
 [Scanning Procedures]()\
 [DTI Scanning Protocol]()
