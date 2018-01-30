@@ -1,4 +1,4 @@
-## Table of Contents
+## Contents
 1. [Lab Activities](#lab-activities)
 2. [Lab Goals](#lab-goals)
 3. [Overview of Research Process](#research-process)
