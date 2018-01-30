@@ -15,7 +15,7 @@ __Contents__
 
 <a name="subjects-scanning"></a>
 ### Subjects & Scanning
-[Advance Clearances]()\
+[Advance Clearances](subjects-and-scanning/advance-clearances.md)\
 [Recruiting Subjects]()\
 [Lucas Center Rules and Policies]()\
 [Scanning Procedures]()\
