@@ -119,8 +119,11 @@ _Note:_ If you are going to use the physiology equipment you should probably con
     - ear → what we hear
     - mouth → what participant hears
   - Press the bar at the top of the keyboard to turn the intercom on so that the subject can hear what you say. Keep in mind it’s like a walky-talky – you won’t be able to hear them while it’s pressed, and they can’t hear you if it’s not pressed. Tell subject:
-    ```
-    “OK, we’re going to do three very short structural scans that are each under a minute. Please remember not to move your head during or in between scans. You’re going to hear some clicks in just a minute.”
+      ```
+      “OK, we’re going to do three very short structural scans that are each under a minute.
+      Please remember not to move your head during or in between scans.
+      You’re going to hear some clicks in just a minute.”
+      ```
   - Turn the lights down
   - Select: “3 plane local”, then “view edit” (alternatively, just click “3 plane local” twice)
   - Press: “Save series”
