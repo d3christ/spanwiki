@@ -43,8 +43,8 @@ You can find Stanford University seals, and other useful images at: http://www.s
 
 <a name='subject-directions'></a>
 ### Subject Directions
-Directions and map to Lucas Center for Imaging - [Download pdf file]
+Directions and map to Lucas Center for Imaging - [Download pdf file]()
 
-Detailed Map to Jordan Hall Studies - [Download jpeg file]
+Detailed Map to Jordan Hall Studies - [Download jpeg file]()
 
-Highway Level Map to Jordan Hall Studies - [Download jpeg file]
+Highway Level Map to Jordan Hall Studies - [Download jpeg file]()
