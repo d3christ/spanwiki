@@ -7,8 +7,17 @@
 4. [Relevant Review](#relevant-review)
 5. [Who's Who?](#whos-who)
 6. [How do I get started?](#get-started)
+    1. [Undergraduates](#undergrads)
+    2. [Graduate Students](#grads)
+    3. [RAs](#RAs)
 7. [What's where](#whats-where)
 8. [Brain Regions of Interest](#brain-regions)
+    1. [Nucles Accumbens (NAcc)](#nacc)
+    2. [Medial Prefrontal Cortex (MPFC)](#mpfc)
+    3. [Ventral Tegmental Area (VTA)](#vta)
+    4. [Dorsal Caudate](#dorsal-caudate)
+    5. [Anterior Cingulate Cortex](#acc)
+    6. [What does activation look like?](#what-it-looks-like)
 
 <a name="lab-activities"></a>
 ## Lab Activities
@@ -70,6 +79,7 @@ __Administrative Assistant:__ Deanna Perez
 <a name="get-started"></a>
 ## How do I get started? 
 
+<a name='undergrads'></a>
 #### Undergraduates
 - Take some serious time over the course of a week or two to read Scott Huettel’s Functional Magnetic Resonance Imaging textbook. Aside from some unavoidably gnarly physics, it’s well-written and accessible to readers, even those with very little background in psychology or biology. Don’t worry about retaining everything; a good once-through will make what we do here in the lab a lot more understandable.
 - Read through this manual.
@@ -77,6 +87,7 @@ __Administrative Assistant:__ Deanna Perez
 - Familiarize yourself with the lab’s publications. They’re available on the lab homepage (www-psych.stanford.edu/~span/).
 - Talk to the lab coordinator to see if there’s anything else you need to do.
 
+<a name='grads'></a>
 #### Graduate Students
 - Figure out what your SUId name and SUId number are.
 - Check to see if your Stanford email account is working; you can do this at webmail.stanford.edu.
@@ -89,6 +100,7 @@ __Administrative Assistant:__ Deanna Perez
 - Make sure you’re comfortable with EPrime (a popular psychology experiment package that allows you to create experiment modules on the computer -- we use this for the stimuli subjects see while in the scanner) and the Linux environment.
 - If you’re not already an fMRI guru, take some serious time over the course of a week or two to read Scott Huettel’s Functional Magnetic Resonance Imaging textbook. Aside from some unavoidably gnarly physics, it’s well-written and accessible to most readers, even those with very little background in psychology or biology. Don’t worry about retaining everything; a good once-through will make what we do here in the lab a lot more understandable.
 
+<a name='RAs'></a>
 #### RAs
 - Contact Anne Sawyer (amsawyer@stanford.edu) to sign up for the next available scanner safety course. Be sure to tell her your name, your lab association, and that you will be in the lab for more than six months. The Lucas Center does not train people who will not be using the magnet for more than half a year. You cannot enter the magnet room without this training.
 - If you’re not already an fMRI guru, take some serious time over the course of a week or two to read Scott Huettel’s Functional Magnetic Resonance Imaging textbook. Aside from some unavoidably gnarly physics, it’s well-written and accessible to most readers, even those with very little background in psychology or biology. Don’t worry about retaining everything; a good once-through will make what we do here in the lab a lot more understandable.
@@ -191,7 +203,8 @@ The reward circuitry we've focused on consists of the medial prefrontal cortex, 
 
 What roles do these structures play in the reward circuitry? Where are they located relative to one another?
 
-### Nucleus accumbens (NAcc)
+<a name='nacc'></a>
+### Nucleus Accumbens (NAcc)
 
 Nucleus accumbens (Nacc) [10, 12, -2]: The NAcc is located inferior to the caudate at the bottom of the internal capsule (the white line separating the caudate from the putamen). This is easiest to see in the coronal view. We see Nacc activation when subjects are anticipating gain, whether it’s anticipation of winning something (money, material goods, tasty food or drink), or simply thinking positively about themselves in the future – in other words, anticipation of an improved future self.
 
@@ -203,7 +216,8 @@ Knutson, B., Wimmer, G. E., Kuhnen, C. M., Winkielman, P. (2008)._
 [Figure 1. Coronal view of the striatum.]
 [Figure 2. Area delineations]
 
-### Medial prefrontal cortex (MPFC)
+<a name='mpfc'></a>
+### Medial Prefrontal Cortex (MPFC)
 
 Medial prefrontal cortex (MPFC) [+/-4, 50, -4]: The mpfc is a bit trickier to locate. Generally speaking, you want to look for a “crooked” gyrus approximately midway between the anterior edge and the corpus callosum; as a rule of thumb it’s approximately three gyri up if you’re viewing it axially. The MPFC is activated in response to doing something related to good outcomes for you. (You expected something good to happen, did it?) Another hypothesis is that it’s doing something related to self vs other. We also see more activation here in response to cues subjects have been told signal a higher probability of winning relative to other cues (for less probable outcomes).
 
@@ -216,6 +230,7 @@ Knutson, B., Rick, S., Wimmer, G. E., Prelec, D., Loewenstein, G. (2007)._
 
 In this image the subject’s nose has wrapped around to the other side of the image. We’re not sure why this happens, but it’s no big deal as it has no effect on your data processing.
 
+<a name='vta'></a>
 ### Ventral Tegmental Area (VTA)
 
 Ventral tegmental area (VTA) [0, ?14?, -16]: In figure 4 the cross hairs are resting on the lower (inferior) margin of the VTA (just above the brain stem protrusion below it). The VTA creates a unique U- or V-shape visible in the axial view (this is a good way to check that you’re on-target); see figure 4b for a good look at this. Midbrain dopamine neurons that originate in the VTA fire in response to unexpected (but not expected?) rewards and in response to reward cues. These neurons project onto other, more distant regions, including the striatum and the mpfc. The neurons, also known as subcortical or midbrain dopamine neurons, release dopamine during rewards and during reward prediction. The amygdala, ventral striatum, OFC (orbito frontal cortex), and MPFC are all enervated by mesolimbic dopamine projected neurons. For more on dopamine function, see Knutson, 2007: Linking Nucleus accumbens dopamine and blood oxygenation.
@@ -226,6 +241,7 @@ See: _Knutson, B., Westdorp, A., Kaiser, E., & Hommer, D. (2000)._
 [VTA2.jpg]
 [Dopa.jpg]
 
+<a name='dorsal-caudate'></a>
 ### Dorsal Caudate
 Dorsal caudate: The dorsal caudate is the most superior (dorsal) part of the caudate. It is thought to link reward to behavior. Perception of a causal relationship between movements and outcomes causes activation here.
 
@@ -233,6 +249,7 @@ See: _Knutson, B., Westdorp, A., Kaiser, E., & Hommer, D. (2000)._
 
 [Dorsalcaudate.jpg]
 
+<a name='acc'></a>
 ### Anterior Cingulate Cortex
 
 We also observe anterior cingulate activation for things that are risky or cause mental conflict (consideration of gains and losses); in other words, the anterior cingulate seems to be involved in risk assessment.
@@ -241,6 +258,7 @@ See: _Knutson, B., Westdorp, A., Kaiser, E., & Hommer, D. (2000)._
 
 [Acc.jpg]
 
+<a name='what-it-looks-like'></a>
 ### What does activation look like?
 Once you’ve processed, smoothed, and run your models on your data, you’ll be able to view volumes (a volume is the full-brain, 3D set of images constructed from the 2D images – one full brain = one volume) that consist of your functional data overlaid on your anatomical images. They will look something like this:
 
