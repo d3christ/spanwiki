@@ -1,7 +1,21 @@
 # Scanning
 
 ## Contents
+1. [Scheduling Subjects](#scheduling-subjects)
+2. [Scanning](#scanning)
+    1. [Meet your subject](#meet-subject)
+    2. [Set up in magnet room](#magnet-set-up)
+    3. [Refer to task-specific training document for training script](#task)
+    4. [Bite bar fitting](#bite-bar)
+    5. [Gerenal set-up](#general-set-up)
+    6. [Prepare Signa (GE Operation Program) on the Scanner Computer](#signa)
+    7. [Getting the participant set up in the scanner](#participant-set-up)
+    8. [Collecting Physio Data](#physio)
+    9. [Scan Procedure](#scan-procedure)
+    10. [Scanner Troubleshooting](#troubleshooting)
+3. [Paying Your Subjects and Finishing Up](#paying-finishing)
 
+<a name='scheduling-subjects'></a>
 ## Scheduling Subjects
 For recruiting see the [recruiting](recruiting2.md) section of the manual. If you are using sona, there is an option to recruit only participants that do not have metal implants (however, you still need to go over the screening forms).
 
@@ -22,7 +36,8 @@ Add the event to the lab calendar:
   - __Name:__ "spanlab"
   - __Password:__ balnaps
   - When done, logout
-
+  
+<a name='scanning'></a>
 ## Scanning
 Before leaving for the Lucas Center you’ll need:
   - The right study questionnaires
@@ -34,6 +49,7 @@ Before leaving for the Lucas Center you’ll need:
   - Subject phone #’s (just in case)
   - Your card key
   
+<a name='meet-subject'></a>
 ### Meet your subject
   - If scanning before 5 pm, meet your subject out on Welch Road and provide him or her with a parking pass (located in folder near window between the restroom area and the scanner computer room). The pass is good for spaces in the Oak Road Parking Lot, located across Welch from the Lucas Center and accessible from Pasteur Drive.
   - Check that the magnet screen is okay
@@ -41,24 +57,29 @@ Before leaving for the Lucas Center you’ll need:
   - Get him or her a locker, have your subject remove all metallic objects from his or her person – also make sure wallets don’t go into the magnet room (the magnet will demagnetize credit cards)
   - Check to see if the subject needs to be fitted with scanner-safe reading glasses. These are located in a black case above the eprime computer.
   
+<a name='magnet-set-up'></a>
 ### Set up in magnet room
   - Head coil, mirror, bite bar set up, pad, sheets, earplugs
   - Turn on projector
   
+<a name='task'></a>
 ### Refer to task-specific training document for training script
   - Emphasize understanding of the task, stimuli; have the subject do a practice run if appropriate.
   
+<a name='bite-bar'></a>
 ### Bite bar fitting
   - Explain concerns about head motion – “When inside the scanner, please remember that it is important to keep your head motionless. To make this possible we will make a bite bar with an impression of your teeth.” It helps to show them with a ruler or your fingers just how little movement can be corrected by the software – people don’t realize what ‘try not to move’ really entails and are probably thinking on the scale of a half inch rather than a millimeter or two.
   - Explain the position that they will be in when inside the scanner (with head tilted back slightly)
   - Take an impression of his or her teeth. Hold the bite bar yourself and make sure it is straight and that the participant’s head is tilted slightly back when they bite down.
   - To make a bite bar, take a half-teaspoon of the grey putty and a half-teaspoon of the red putty, kneed with your fingers until a uniform color, and fit over the bite bar form. The putty and bite bar structure is located in the drawer labeled “Knutson” over by the medical prep bed area and sink.
   
+<a name='general-set-up'></a>
 ###   General set-up
   - Enter info into Lucas logbook (located to the left of the magnet computer on top of some audio equipment).
   - Have your subject fill out a consent form, task-specific pre-scan questionnaires, and a pre-scan screening form if it has not been completed already. Give the subject an extra copy of the consent form to take home.
   - Enter info into Brian’s logbook (name, gender, ethnicity, subject number, task, exam # [located on top RH side of the magnet computer screen after the scan begins], a space for I & S values, and winnings after they have completed the task, as well as general notes on the scan).
   
+<a name='signa'></a>
 ### Prepare Signa (GE Operation Program) on the Scanner Computer
 You’ll need to set up the patient profile (in the RX manager on the scanner computer) before the landmark is made.
   - Click the picture of the scanner, then “NewPt”
@@ -73,6 +94,7 @@ You’ll need to set up the patient profile (in the RX manager on the scanner co
   - In the list of protocols, select your protocol
   - If it’s not there, click “Site” and try again
   
+<a name='participant-set-up'></a>
 ### Getting the participant set up in the scanner
   - Double check for metallic objects. NO metal can enter the scanning room (including bobby pins, small clips, coins, underwire bras, etc). Most jeans are okay provided they don’t have unusual metallic decoration. Belts are not okay, even if the subject claims no metal in the belt. Refer to your scanner training materials for comprehensive safety information.
   - Remind the participant to use the restroom.
@@ -88,6 +110,7 @@ You’ll need to set up the patient profile (in the RX manager on the scanner co
   - Check to make sure the task screens are centered once the subject is all the way in. The easiest way to do this is by creating a test screen with a representative slide from your task. Ask the subject whether they can see the top and bottom, and check to make sure it’s in focus and centered. Make adjustments as necessary.
   - Now you’re ready to go! Head back to the scanner computer.
   
+<a name='physio'></a>
 ### Collecting Physio Data
 _Note:_ If you are going to use the physiology equipment you should probably contact Anne Sawyer to get an overview of how to treat the equipment.
 
@@ -109,6 +132,7 @@ _Note:_ If you are going to use the physiology equipment you should probably con
       2. Set the physio monitoring option to on
   - Doing this will generate a file called Pfile.physio after the scan concludes. That file has cardiac trigger info, expressed as sample numbers at which a trigger occurred (40 Hz sampling rate), followed by -9999, followed by respiratory data sampled at 40 Hz. There is a script that will read this data on Gary's website in fmriutil, called readphys12.m.
   
+<a name='scan-procedure'></a>
 ### Scan Procedure
   - Make sure scanner is in research mode
   - Click on “scan modes”
@@ -244,6 +268,7 @@ Use SecureFX to move the Eprime .edat AND .txt files from the eprime computer to
   - Record subject ID, exam #, gender, age, ethnicity, scan prescription start/end points, and any other relevant info (e.g. amount $$ won) in the note file in the subject’s data directory. (Basically, replicate your entry into the lab scan notebook.)
   - Scan data should be pre-processed within a week. Brian and the lab coordinator should be informed if there are data integrity issues.
   
+<a name='troubleshooting'></a>
 ### Scanner Troubleshooting
 If you can’t solve a problem, consider called the lab manager, Brian, another knowledgeable member of the lab, Anne Sawyer, or Gary, in that order. Be careful about calling people late at night; in particular it’s not a good idea to call Anne or Gary after 10pm unless it’s a medical emergency.
 
@@ -282,6 +307,7 @@ This requires troubleshooting by the experts.  You can try running your scan any
 to see if the subject is willing to come back another time.
 ```
 
+<a name='paying-finishing'></a>
 ## Paying Your Subjects and Finishing Up
 Get cash and/or checks and payment forms from the lab coordinator. Make sure the subjects are US Citizens with social security numbers (needed for grant reimbursement). Talk to the lab manager before running someone who is not a US citizen. After paying the subject and making sure the payment form is filled out, go onto the spanlab google account and open the hs payment spreadsheet. There, record the date, amount, and study in the appropriate columns. This allows us to easily total up cash payment advances that we get from grants.
 
