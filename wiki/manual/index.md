@@ -1,6 +1,6 @@
 # Lab Manual Index
 
-## FMRI Data Analysis
+### FMRI Data Analysis
 
 [Syncing Data from Nims](nimssync.md)
 
@@ -22,11 +22,11 @@
 
 [Sherlock](sherlock.md)
 
-## Diffusion MRI Data Analysis
+### Diffusion MRI Data Analysis
 
 [Instructions to trace tracts between circuits relevant to the lab](https://github.com/josiahl/spantracts)
 
-## Writing
+### Writing
 
 [Reviewing](reviewing.md)
 
@@ -35,13 +35,13 @@
 [Authorship](authorship.md)
 
 
-## Admin
+### Admin
 
 [Hiring](hiring.md)
 
-## Scanning
+### Scanning
 [Scanning] (cni.md)
 
 [Lucas Center](lucas.md)
 
-## [Old Manual](old-manual/old-manual-index.md)
+### [Old Manual](old-manual/old-manual-index.md)
