@@ -3,7 +3,7 @@
 ## Contents
 
 ## Scheduling Subjects
-For recruiting see the recruiting section of the manual. If you are using sona, there is an option to recruit only participants that do not have metal implants (however, you still need to go over the screening forms).
+For recruiting see the [recruiting](recruiting2.md) section of the manual. If you are using sona, there is an option to recruit only participants that do not have metal implants (however, you still need to go over the screening forms).
 
 Before contacting a potential participant, check the SPAN Lab Gray List, which documents potentially problematic participants. You can access this list by logging into Google Docs and viewing the SPAN Lab Scanning Participant Gray List:
 
