@@ -22,3 +22,5 @@ Add the event to the lab calendar:
   - __Name:__ "spanlab"
   - __Password:__ balnaps
   - When done, logout
+
+## Scanning
