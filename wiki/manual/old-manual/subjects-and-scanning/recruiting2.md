@@ -4,8 +4,8 @@
   2. [Sona](#sona)
   3. [Q-Day](#qday)
   4. [Bay Area Research](#bay-area-research)
-  5. [Advertising Resources](#advertising-resources)\
-      5.1 [Graphics](#graphics)\
+  5. [Advertising Resources](#advertising-resources)
+      5.1 [Graphics](#graphics)
       5.2 [Subjecrs Directions](#subject-directions)
 
 <a name='general'></a>
