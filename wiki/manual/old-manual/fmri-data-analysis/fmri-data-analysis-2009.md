@@ -20,8 +20,8 @@
 ## Modeling
   - [Background]()
   - [Making regressors]()
-  - [Runnings a general linear model (GLM)]
-  - [Calculating Mean Squared Successive Deviation (MSSD -- an optional measure of temporal variance)
+  - [Runnings a general linear model (GLM)]()
+  - [Calculating Mean Squared Successive Deviation (MSSD -- an optional measure of temporal variance)]()
 
 <a name='group-maps'></a>
 ## Group Maps
