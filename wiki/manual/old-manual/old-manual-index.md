@@ -19,7 +19,7 @@
 [Recruiting Subjects](subjects-and-scanning/recruiting-subjects.md)\
 [Lucas Center Rules and Policies](subjects-and-scanning/lucas-center-rules-policies.md)\
 [Scanning](subjects-and-scanning/scanning.md)\
-[DTI Scanning Protocol]()
+[DTI Scanning Protocol](subjects-and-scanning/dti-scanning-protocol.mda)
 
 <a name="data-analysis"></a>
 ### FMRI Data Analysis
