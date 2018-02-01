@@ -1,7 +1,7 @@
 # FMRI Data Analysis (2009)
 
 ## Contents
-  1. [Preprocessing](#prepocessing)
+  1. [Preprocessing](#preprocessing)
   2. [Modeling](#modeling)
   3. [Group Maps](#group-maps)
   4. [Volume of Interest Analysis](#VOI-analysis)
