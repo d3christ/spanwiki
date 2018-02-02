@@ -11,7 +11,7 @@
 
 <a name='preprocessing'></a>
 ## Preprocessing
-  - [Functional preprocessing]()
+  - [Functional preprocessing](functional-preprocessing.md)
   - [Anatomical preprocessing (nudging and warping by hand)]()
   - [Checking for motion]()
   - [Troubleshooting]()
