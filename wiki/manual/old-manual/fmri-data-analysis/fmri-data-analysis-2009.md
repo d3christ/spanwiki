@@ -13,7 +13,7 @@
 ## Preprocessing
   - [Functional preprocessing](functional-preprocessing.md)
   - [Anatomical preprocessing (nudging and warping by hand)](anatomical-preprocessing.md)
-  - [Checking for motion]()
+  - [Checking for motion](checking-for-motion.md)
   - [Troubleshooting]()
 
 <a name='modeling'></a>
