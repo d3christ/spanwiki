@@ -213,8 +213,8 @@ _Knutson, B., Fong, G. W., Adams, C. S., & Hommer, D. (2001).
 Knutson, B., Rick, S., Wimmer, G. E., Prelec, D., Loewenstein, G. (2007).
 Knutson, B., Wimmer, G. E., Kuhnen, C. M., Winkielman, P. (2008)._
 
-[Figure 1. Coronal view of the striatum.]()\
-[Figure 2. Area delineations]()
+![Figure 1. Coronal view of the striatum.]()\
+![Figure 2. Area delineations]()
 
 <a name='mpfc'></a>
 ### Medial Prefrontal Cortex (MPFC)
