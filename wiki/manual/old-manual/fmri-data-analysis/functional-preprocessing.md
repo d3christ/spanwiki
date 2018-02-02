@@ -53,7 +53,7 @@ Here is an example of a full preprocess script (you can download this script [he
 Preprocessing Script (hacked by hm 081914)
 This script preprocesses the raw anatomical / functional data
 ----------------------------------------------------------------------#
-foreach subject ( ak090414 ) #ad090114 ag082014 ak082014 ay090214 be082714 bk081914 bt082014 cc090114 dz082614 el081914 es082814 ju081914\
+foreach subject ( ak090414 ) #ad090114 ag082014 ak082014 ay090214 be082714 bk081914 bt082014 cc090114 dz082614 el081914 es082814 ju081914
 jm082814 kk082714 ks090314 ln082814 ls090314 lx090114 mb082714 mh081914 nh082714 oc082614 ph090114 so090314 tk082114 uc082614 za082014
 
        cd ../${subject}*
