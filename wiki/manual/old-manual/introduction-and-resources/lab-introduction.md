@@ -213,8 +213,8 @@ _Knutson, B., Fong, G. W., Adams, C. S., & Hommer, D. (2001).
 Knutson, B., Rick, S., Wimmer, G. E., Prelec, D., Loewenstein, G. (2007).
 Knutson, B., Wimmer, G. E., Kuhnen, C. M., Winkielman, P. (2008)._
 
-[Figure 1. Coronal view of the striatum.]
-[Figure 2. Area delineations]
+[Figure 1. Coronal view of the striatum.]()\
+[Figure 2. Area delineations]()
 
 <a name='mpfc'></a>
 ### Medial Prefrontal Cortex (MPFC)
@@ -226,7 +226,7 @@ _Knutson, B., Fong, G. W., Adams, C. S., & Hommer, D. (2001).
 Knutson, B., Fong, G. W., Bennett, S. M., Adams, C. S., & Hommer, D. (2003).
 Knutson, B., Rick, S., Wimmer, G. E., Prelec, D., Loewenstein, G. (2007)._
 
-[MPFC.jpg]
+![MPFC.jpg]()
 
 In this image the subject’s nose has wrapped around to the other side of the image. We’re not sure why this happens, but it’s no big deal as it has no effect on your data processing.
 
@@ -237,9 +237,9 @@ Ventral tegmental area (VTA) [0, ?14?, -16]: In figure 4 the cross hairs are res
 
 See: _Knutson, B., Westdorp, A., Kaiser, E., & Hommer, D. (2000)._
 
-[VTA1.jpg]
-[VTA2.jpg]
-[Dopa.jpg]
+![VTA1.jpg]()\
+![VTA2.jpg]()\
+![Dopa.jpg]()
 
 <a name='dorsal-caudate'></a>
 ### Dorsal Caudate
@@ -247,7 +247,7 @@ Dorsal caudate: The dorsal caudate is the most superior (dorsal) part of the cau
 
 See: _Knutson, B., Westdorp, A., Kaiser, E., & Hommer, D. (2000)._
 
-[Dorsalcaudate.jpg]
+![Dorsalcaudate.jpg]()
 
 <a name='acc'></a>
 ### Anterior Cingulate Cortex
@@ -256,13 +256,13 @@ We also observe anterior cingulate activation for things that are risky or cause
 
 See: _Knutson, B., Westdorp, A., Kaiser, E., & Hommer, D. (2000)._
 
-[Acc.jpg]
+![Acc.jpg]()
 
 <a name='what-it-looks-like'></a>
 ### What does activation look like?
 Once you’ve processed, smoothed, and run your models on your data, you’ll be able to view volumes (a volume is the full-brain, 3D set of images constructed from the 2D images – one full brain = one volume) that consist of your functional data overlaid on your anatomical images. They will look something like this:
 
-[Doublecaudate.jpg]
+![Doublecaudate.jpg]()
 
 The image on the left shows significant activation in the dorsal caudate. The image on the right (same subject, different contrast) is more difficult to determine – it’s most likely a combination of putamen and caudate, but the data has smeared over the internal capsule due to (a) averaging across subjects and (b) limitations on our resolution (a voxel is currently ~ 4mm to each side). The internal capsule is a tract of white matter, and thus shouldn’t show a BOLD response (only grey matter does so).
 
