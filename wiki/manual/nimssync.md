@@ -28,5 +28,31 @@ To find these numbers, you can log into NIMS and look at an individual scan's de
 By keeping track of these numbers as you collect scans and recording them, we can always keep an up to date record of _exactly_ where the corresponding data will be kept. Note that if you end and start a new session, there will be two folders for each of these directories. 
 
 
+Once you have them, you'll want to keep a csv file (we'll call it `subjects.csv`) with these columns:
+```
+Folder,Subject,...
+20180120_1625_16817,kj012018,...
+20180120_1744_16818,cg012018,...
+20180123_1648_16834,cb012318,...
+20180123_1825_16836,al012318,...
+```
 
+## Usage of nims_sync.py
 
+To sync, we can then use the `nims_sync.py` script in spantoolbox. 
+
+```
+python nims_sync.py  --user nickborg --experiment stockmri2 --sfile subjects.csv --dest /path/to/where/i/want/files
+```
+
+* user will be your SUID
+* experiment will be the experiment name of the folder where data is saved on NIMS. 
+* If you need to gather data from another PIs server, you would use --PI your-pi-name. 
+* to see which folders will be copied from the server without writing anything to disk, use the option --dry
+* call python nims_sync.py --help
+
+(Note that nims_sync.py will need to be in your current directory, or you'll need to provide a path to it, or you'll need to have it added to the system path)
+
+## Putting your data into folders. 
+
+Once you've synced
