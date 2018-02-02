@@ -1,4 +1,4 @@
-# Checking Motion
+# Checking for Motion
 
 ## Contents
   1. [Checking motion using matlab](#matlab)
