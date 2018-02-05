@@ -26,6 +26,10 @@
 
 [Instructions to trace tracts between circuits relevant to the lab](https://github.com/josiahl/spantracts)
 
+### Neurofeedback
+
+[Instructions are located here.](https://github.com/cni/rtfmri/blob/feedback/neurofeedback.md)
+
 ### Writing
 
 [Reviewing](reviewing.md)
