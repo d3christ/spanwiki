@@ -22,6 +22,11 @@
 
 [Sherlock](sherlock.md)
 
+[Cluster Tables](cluster_tables.md)
+
+[Creating Images from Whole Brain Files](afni_image.md)
+
+
 ### Diffusion MRI Data Analysis
 
 [Instructions to trace tracts between circuits relevant to the lab](https://github.com/josiahl/spantracts)
