@@ -4,8 +4,8 @@
   1. [3dinfo](#3dinfo)
   2. [Sanity-checking your data](#sanity-checking)
   3. [My data looks funny](#data-looks-funny)
-    1. [Structural artifacts](#structural-artifacts)
-    2. [Functional artifacts](#functional-artifacts)
+      1. [Structural artifacts](#structural-artifacts)
+      2. [Functional artifacts](#functional-artifacts)
     
 <a name='3dinfo'></a>
 ## 3dinfo
