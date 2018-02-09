@@ -1,6 +1,6 @@
 Below you'll find the 2009 spanlab wiki entry for mask creation. 
 
-If you're only interested in drawing a sphere at particular coordinate in TLRC space, see Nick's relevant python script [here](...)
+If you're only interested in drawing a sphere at particular coordinate in TLRC space, see Nick's relevant python script in `spantoolbox/masks/make_masks.py`
 
 # Group VOI Masks creation (2009)
 
