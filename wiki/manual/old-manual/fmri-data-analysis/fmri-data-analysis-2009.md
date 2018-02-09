@@ -11,10 +11,10 @@
 
 <a name='preprocessing'></a>
 ## Preprocessing
-  - [Functional preprocessing](functional-preprocessing.md)
-  - [Anatomical preprocessing (nudging and warping by hand)](anatomical-preprocessing.md)
-  - [Checking for motion](checking-for-motion.md)
-  - [Troubleshooting](troubleshooting.md)
+  - [Functional preprocessing](preprocessing/functional-preprocessing.md)
+  - [Anatomical preprocessing (nudging and warping by hand)](preprocessing/anatomical-preprocessing.md)
+  - [Checking for motion](preprocessing/checking-for-motion.md)
+  - [Troubleshooting](preprocessing/troubleshooting.md)
 
 <a name='modeling'></a>
 ## Modeling
