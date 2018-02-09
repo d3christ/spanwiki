@@ -39,7 +39,7 @@ Folder,Subject,...
 
 ## Usage of nims_sync.py
 
-To sync, we can then use the `nims_sync.py` script in spantoolbox. 
+To sync, we can then use the `nims_sync.py` script in `spantoolbox/utilities`. 
 
 ```
 python nims_sync.py  --user nickborg --experiment stockmri2 --sfile subjects.csv --dest /path/to/where/i/want/files
@@ -53,6 +53,50 @@ python nims_sync.py  --user nickborg --experiment stockmri2 --sfile subjects.csv
 
 (Note that nims_sync.py will need to be in your current directory, or you'll need to provide a path to it, or you'll need to have it added to the system path)
 
-## Putting your data into folders. 
+## Putting your data into subject folders. 
 
-Once you've synced
+Once you've synced your local copy of the data, you'll probably want to move them to folders names after subjects, and to give reasonable names to the scan files to make them easier to work with. 
+
+With that in mind, you'll probably want to use the `spantoolbox/utilities/place_data` script. 
+
+
+This well require two other things:
+* a project_spec file:
+You'll want to make a file like the following:
+
+filename: project_spec
+location: ~/.../natgeo/
+Contents:
+```
+project = 'natgeo'
+tasks = ['instagram','campaign']
+scans = ['T1w_9mm_BRAVO', 'Instagram', 'Campaign']
+scan_names = ['anat', 'instagram', 'campaign']
+behaviorals = ['instagram.csv', 'campaign.csv']
+```
+Suppose that we get folders named `15576_5_1_Instagram_EPI_29mm_2sec` and `15576_5_1_Campaign_EPI_29mm_2sec`, but we want to rename the corresponding files `instagram.nii` and `campaign.nii`. 
+
+Then `scans` will contain Instagram and Campaign as those strings are in the scan names, and `scan_names` will contain the names we want for those. 
+
+`tasks` will refer to the higher level abstraction of whether a subject did a task at all (in the case where there are two scans within a given task, this might matter. 
+
+* you'll need your subject file to look like this:
+```
+Folder,Subject,Researcher,task_instagram,task_campaign,T1w_9mm_BRAVO,Instagram,Campaign,...
+20170726_1454_15569,kg072617,NS,1,1,1,1,1,...
+20170727_1642_15576,cm072717,NS,1,1,1,1,1,...
+Running `python status.py` and then `python place_data.py` in a folder `utilities` copied from spantoolbox would make this easy. 
+```
+(Here there's a 1 if a subject had a particular scan, otherwise you'll get a zero.)
+
+
+
+
+If more than one scan for a subject has `Instagram` in the title, you should get a bash prompt asking which of the two files you'll want to use (usually the later, larger one). 
+ 
+Similarly, the `qa.py` script will make qa significantly faster .
+
+```
+Note from nb: these scripts right now are a mess, and I wanted to totally revamp them to make them not bad, but at the moment they do what they are meant to do. If you end up trying to use them and get stuck, email me and i'll see what i can do. 
+```
+
