@@ -38,4 +38,66 @@ Usage: @afni_image <-underlay ANAT -overlay -DSET>
 
 ```
 
-If you find it helpful, consider putting it into your /usr/bin folder so that it will work in any directory by just saying @afni_image. Otherwise you'll need to type `/path/to/@afni_image`.
+If you find it helpful, consider putting it into your /usr/bin folder so that it will work in any directory by just saying `@afni_image`. Otherwise you'll need to type `/path/to/@afni_image`.
+
+
+# Using it with common ROIS:
+
+Check out the example below of a script that takes a number of ttest results and prints images at some of our common ROIs, which can be useful in certain situations:
+
+```
+#!/bin/csh
+# For a normal set of vois and a set of whole_brain images, render to image.
+
+set underlay = TT_N27.nii
+
+foreach overlay ( choice_z feedback_z inflection_z )
+
+    # Left Nacc
+
+    set outfile = nacc8mml_${overlay}
+
+    @afni_image -u TT_N27.nii -o ${overlay}+tlrc -dxyz 10 -12 -2 \
+                -prefix $outfile -no-montage
+
+    # Right Nacc
+    set outfile = nacc8mmr_${overlay}
+
+    @afni_image -u TT_N27.nii -o ${overlay}+tlrc -dxyz -10 -12 -2 \
+                -prefix $outfile -no-montage
+
+    # Left mpfc
+
+    set outfile = mpfcl_${overlay}
+
+    @afni_image -u TT_N27.nii -o ${overlay}+tlrc -dxyz 4 -47 0 \
+                -prefix $outfile -no-montage
+
+    # Right mpfc
+    set outfile = mpfcr_${overlay}
+
+    @afni_image -u TT_N27.nii -o ${overlay}+tlrc -dxyz -4 -47 0 \
+                -prefix $outfile -no-montage
+
+    # Left Insula - Desai
+
+    set outfile = desai_insl_${overlay}
+
+    @afni_image -u TT_N27.nii -o ${overlay}+tlrc -dxyz 32 -30 -2 \
+                -prefix $outfile -no-montage
+
+    # Right Insula - Desai
+    set outfile = desai_insr_${overlay}
+
+    @afni_image -u TT_N27.nii -o ${overlay}+tlrc -dxyz -32 -30 -2 \
+                -prefix $outfile -no-montage
+end
+
+```
+
+If you wanted to make a small montage at each of these, you might consider changing the lines to something more like 
+```
+@afni_image -u TT_N27.nii -o ${overlay}+tlrc -dxyz -32 -30 -2 \
+                -prefix $outfile -montage_size 3x3:1
+```
+Which will make a 3x3 montage at each location in each plane. 
