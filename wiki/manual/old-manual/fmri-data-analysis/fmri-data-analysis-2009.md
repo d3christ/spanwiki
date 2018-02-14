@@ -25,7 +25,7 @@
 
 <a name='group-maps'></a>
 ## Group Maps
-  - [Group anatomical (optional)]()
+  - [Group anatomical (optional)](group-maps/group-anatomical.md)
   - [Group level t-tests]()
   - Individual differences
   - [Making activation tables]()
