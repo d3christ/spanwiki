@@ -5,7 +5,7 @@
   2. [Overview](#overview)
   3. [Master Matrix](#master-matrix)
       1. [Replacing text](#replacing-text)
-  4. [Making regressors](#making-regressors)
+  4. [Making regressors](#making)
   5. [Adding ratings](#adding-ratings)
   6. [Vector description syntax](#vector-description-syntax)
   7. [txt2master and lookup tables](#txt2master)
@@ -85,7 +85,7 @@ Here is an example of running it:
 ```
 This will use the EndowRunMATRIX.csv file as input and create a new file called EndowRunMATRIX_numbers.csv with all your specified replacements.
 
-<a name='making-regressors'></a>
+<a name='making'></a>
 ## Making regressors
 After you have the master vector you can make regressors using "makeVec.py" and a vector description file. You do not need to make any changes to the "makeVec.py" script or even copy it, but you will need to make your own vector description files. There are a few files in /commonscripts/txt2matrix/ on dmthal that you can use as examples:
   - perVecs.txt - this describes 3 period regressors
