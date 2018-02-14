@@ -18,7 +18,7 @@
 
 <a name='modeling'></a>
 ## Modeling
-  - [Background]()
+  - [Background](modeling/background.md)
   - [Making regressors]()
   - [Runnings a general linear model (GLM)]()
   - [Calculating Mean Squared Successive Deviation (MSSD -- an optional measure of temporal variance)]()
