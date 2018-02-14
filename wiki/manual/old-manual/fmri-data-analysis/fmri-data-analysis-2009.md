@@ -19,8 +19,8 @@
 <a name='modeling'></a>
 ## Modeling
   - [Background](modeling/background.md)
-  - [Making regressors]()
-  - [Runnings a general linear model (GLM)]()
+  - [Making regressors](modeling/making-regressors.md)
+  - [Runnings a general linear model (GLM)](modeling/glm.md)
   - [Calculating Mean Squared Successive Deviation (MSSD -- an optional measure of temporal variance)]()
 
 <a name='group-maps'></a>
