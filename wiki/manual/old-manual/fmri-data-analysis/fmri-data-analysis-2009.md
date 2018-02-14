@@ -21,7 +21,7 @@
   - [Background](modeling/background.md)
   - [Making regressors](modeling/making-regressors.md)
   - [Runnings a general linear model (GLM)](modeling/glm.md)
-  - [Calculating Mean Squared Successive Deviation (MSSD -- an optional measure of temporal variance)](mssd.md)
+  - [Calculating Mean Squared Successive Deviation (modeling/MSSD -- an optional measure of temporal variance)](mssd.md)
 
 <a name='group-maps'></a>
 ## Group Maps
