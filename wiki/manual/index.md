@@ -18,6 +18,8 @@
 
 [Timecourse Plots](timecourses.md)
 
+[Mediation (R)](https://mail.google.com/mail/u/0/#inbox/161de35b25cf39d4?projector=1)
+
 [Whole Brain Tables](cluster_tables.md)
 
 [Whole Brain Images](afni_image.md)
