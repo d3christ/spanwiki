@@ -1,8 +1,8 @@
 # Lab Manual Index
 
-### FMRI Data Analysis
+### Functional MRI Data Analysis
 
-##### Note: check out [spantoolbox](https://github.com/spanlab/spantoolbox) for a collection of most of our common tools. Many of the links below describe how to use these tools. 
+## Note: check out [spantoolbox](https://github.com/spanlab/spantoolbox) for a collection of most of our common tools. Many of the links below describe how to use these tools. 
 
 [Syncing Data from Nims](nimssync.md)
 
@@ -24,14 +24,14 @@
 
 [Sherlock](sherlock.md)
 
-[Cluster Tables](cluster_tables.md)
+[Whole Brain Tables](cluster_tables.md)
 
 [Creating Images from Whole Brain Files](afni_image.md)
 
 
 ### Diffusion MRI Data Analysis
 
-[Instructions to trace tracts between circuits relevant to the lab](https://github.com/josiahl/spantracts)
+[Tracing relevant circuits](https://github.com/josiahl/spantracts)
 
 ### Neurofeedback
 
@@ -43,16 +43,18 @@
 
 [Revising](revising.md)
 
-[Authorship](authorship.md)
+[Authoring](authorship.md)
 
 
 ### Admin
 
 [Hiring](hiring.md)
 
+
 ### Scanning
 [Scanning] (cni.md)
 
 [Lucas Center](lucas.md)
+
 
 ### [Old Manual](old-manual/old-manual-index.md)
