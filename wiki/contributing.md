@@ -24,4 +24,5 @@ To make changes locally, you'll need to:
 
 ## Useful links:
 [Basic git tutorial](http://rogerdudler.github.io/git-guide/)
+
 [Markdown syntax reference](http://commonmark.org/help/)
