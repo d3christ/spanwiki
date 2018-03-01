@@ -2,7 +2,7 @@
 
 ### Functional MRI Data Analysis
 
-## Note: check out [spantoolbox](https://github.com/spanlab/spantoolbox) for a collection of most of our common tools. Many of the links below describe how to use these tools. 
+##### Note: check out [spantoolbox](https://github.com/spanlab/spantoolbox) for a collection of most of our common tools. Many of the links below describe how to use these tools. 
 
 [Syncing Data from Nims](nimssync.md)
 
