@@ -35,7 +35,7 @@
 
 ### Neurofeedback
 
-[Instructions are located here.](https://github.com/cni/rtfmri/blob/feedback/neurofeedback.md)
+[Instructions](https://github.com/cni/rtfmri/blob/feedback/neurofeedback.md)
 
 ### Writing
 
