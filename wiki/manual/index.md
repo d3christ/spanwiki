@@ -52,9 +52,9 @@
 
 
 ### Scanning
-[Scanning] (cni.md)
+[Psychology Department] (https://cni.stanford.edu)
 
-[Lucas Center](lucas.md)
+[Lucas Center](https://http://med.stanford.edu/lucasmri/current-users.html)
 
 
 ### [Old Manual](old-manual/old-manual-index.md)
