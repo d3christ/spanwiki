@@ -18,15 +18,15 @@
 
 [Timecourse Plots](timecourses.md)
 
+[Whole Brain Tables](cluster_tables.md)
+
+[Whole Brain Images](afni_image.md)
+
 [SVMRFE](svm.md)
 
 [Graphnet](graphnet.md)
 
 [Sherlock](sherlock.md)
-
-[Whole Brain Tables](cluster_tables.md)
-
-[Creating Images from Whole Brain Files](afni_image.md)
 
 
 ### Diffusion MRI Data Analysis
