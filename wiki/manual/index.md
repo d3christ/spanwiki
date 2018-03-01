@@ -2,15 +2,15 @@
 
 ### Functional MRI Data Analysis
 
-##### Note: check out [spantoolbox](https://github.com/spanlab/spantoolbox) for a collection of most of our common tools. Many of the links below describe how to use these tools. 
+##### (Check out [spantoolbox](https://github.com/spanlab/spantoolbox) for some commonly used tools.)
 
-[Syncing Data from Nims](nimssync.md)
+[Uploading data](nimssync.md)
 
 [Preprocessing 2009](preprocess09.md)
 
-[Regression 2009](regression09.md)
+[Ttest 2009](ttest09.md)
 
-[ttest 2009](ttest09.md)
+[Regression 2009](regression09.md)
 
 [ROI analysis](roi_analysis.md)
 
@@ -26,6 +26,8 @@
 
 [Graphnet](graphnet.md)
 
+[Neurofeedback](https://github.com/cni/rtfmri/blob/feedback/neurofeedback.md)
+
 [Sherlock](sherlock.md)
 
 
@@ -33,9 +35,7 @@
 
 [Tracing relevant circuits](https://github.com/josiahl/spantracts)
 
-### Neurofeedback
 
-[Instructions](https://github.com/cni/rtfmri/blob/feedback/neurofeedback.md)
 
 ### Writing
 
@@ -44,6 +44,8 @@
 [Revising](revising.md)
 
 [Authoring](authorship.md)
+
+[Plotting (R)](https://www.r-graph-gallery.com/)
 
 
 ### Admin
