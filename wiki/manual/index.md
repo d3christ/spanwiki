@@ -18,7 +18,7 @@
 
 [Timecourse Plots](timecourses.md)
 
-[Mediation (R)](https://mail.google.com/mail/u/0/#inbox/161de35b25cf39d4?projector=1)
+[Mediation (R)](https://www.youtube.com/watch?v=-B37sK9NTfI&feature=youtu.be)
 
 [Whole Brain Tables](cluster_tables.md)
 
