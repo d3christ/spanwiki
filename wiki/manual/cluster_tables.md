@@ -9,9 +9,9 @@ Right Superior Temporal Gyrus   	54	-57	26	5.1105	142
 ```
 Where zScore is usually the peak value and voxels is cluster size.
 
-To produce these tables, use:
+To produce these tables, use (tools accessible in `spantoolbox/group_analysis/old_table_dump` on uncus.stanford.edu):
 1. 3dclustsim to determine which cluster and threshold to use (TBA)
-2. `cluster_automator.py` (which calls `tableDump.py`) to dump out the table with relevant information (accessible in  accessible in `spantoolbox/group_analysis/old_table_dump`). Instructions for `cluster_automator.py`...
+2. `cluster_automator.py` (which calls `tableDump.py`) to dump out the table with relevant information. Instructions for `cluster_automator.py`... 
 * edit the `ttest_dirs` in the main loop to input the ttest directories for which you want tables
 * edit the `fid_write` line in `write_clustcommands()` function with the correct threshold and cluster size (note that the two thresholds come after the `-2thresh` flag and the cluster size is the third argument after the `-dxyz` flag)
 * comment out the two `run_*` commands in the main script (leaving the `write_*` command uncommented), and run `python cluster_automator.py` to output `clustcommand` in each ttest directory
