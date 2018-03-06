@@ -1,5 +1,5 @@
 # Cluster tables
-When writing papers, you may wish to make a table consisting of clusters of activation in whole brain maps (as below). 
+When writing up FMRI results, we often wish to add tables documenting activation clusters in whole brain maps, for example... 
 ```
 TTRegion	                        X	 Y	 Z	 zScore	 Voxels
 Right Lentiform Nucleus         	16	7	-3	 7.3315	 12937
@@ -7,27 +7,24 @@ Left  Lingual Gyrus             	-13	-86	-9	4.9527	326
 Right Cerebellar Tonsil         	42	-54	-41	5.9384	183
 Right Superior Temporal Gyrus   	54	-57	26	5.1105	142
 ```
-Where zScore is usually the peak value and voxels is cluster size.
+(where zScore is usually the peak value and voxels is cluster size).
 
 To produce these tables, use (tools accessible in `spantoolbox/group_analysis/old_table_dump` on uncus.stanford.edu):
 1. 3dclustsim to determine which cluster and threshold to use (TBA)
-2. `cluster_automator.py` (which calls `tableDump.py`) to dump out the table with relevant information. Instructions for `cluster_automator.py`... 
+2. `cluster_automator.py` (which calls `tableDump.py`) to dump out the table with relevant information, as follows:
 * edit the `ttest_dirs` in the main loop to input the ttest directories for which you want tables
 * edit the `fid_write` line in `write_clustcommands()` function with the correct threshold and cluster size (note that the two thresholds come after the `-2thresh` flag and the cluster size is the third argument after the `-dxyz` flag)
 * comment out the two `run_*` commands in the main script (leaving the `write_*` command uncommented), and run `python cluster_automator.py` to output `clustcommand` in each ttest directory
 * `cd` into each ttest directory and `chmod +x clustcommand`
 * comment out the `write_*` command in the main script (leaving the two `run_*` commands uncommented), and run `python cluster_automator.py` to output the `*.csv` files for each regressor of interest
 
-A more recent version of the script exists as clust2table.py
+# Using clust2table.py
 
-This will not print a finalized table as above, but instead is designed to give you more information about the clusters you have by giving you:
+A newer fancier script (by Nick Borg) can provide more information about the clusters (located in `spantoolbox/group_analysis/clust2table.py`):
 * Multiple candidate region names, for both CM and Peak
 * Neurosynth associated terms for each cluster
 * Coordinates in both MNI and TLRC space. 
-
-# Using clust2table.py
-
-The current version of the script is located in `spantoolbox/group_analysis/clust2table.py
+but requires a bit more context: 
 
 ### Requirements:
 * You must have python installed
@@ -70,7 +67,7 @@ The current version of the script is located in `spantoolbox/group_analysis/clus
     ct.write_csvs(header_format)
 ```
 
-This will result in a csv file such as the following:
+This generates a csv file, e.g.:
 
 ```
 TT_Regions_CM,TT_Regions_Peak,PMNI_X,PMNI_Y,PMNI_Z,PTT_X,PTT_Y,PTT_Z,CMNI_X,CMNI_Y,CMNI_Z,CMTT_X,CM_TTY,CM_TTZ,Voxels,Peak_zScore,NS_1,NS_2,NS_3,NS_4,NS_5,NS_6,NS_7,NS_8,NS_9,NS_10
