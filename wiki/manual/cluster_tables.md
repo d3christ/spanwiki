@@ -1,6 +1,5 @@
 # Cluster tables
-Usually when writing papers, you will wish to make a table consisting of clusters of activation in whole brain maps. These are normally organized like so:
-
+When writing papers, you may wish to make a table consisting of clusters of activation in whole brain maps (as below). 
 ```
 TTRegion	                        X	 Y	 Z	 zScore	 Voxels
 Right Lentiform Nucleus         	16	7	-3	 7.3315	 12937
@@ -11,7 +10,13 @@ Right Superior Temporal Gyrus   	54	-57	26	5.1105	142
 
 Where zScore is usually the peak value and voxels is cluster size. We have automated this process. 
 
-If you only wish to get one of the tables as above, you can use the `tableDump.py` and `cluster_automator.py` scripts originally by Andrew Trujillo. They are currently accessible in `spantoolbox/group_analysis/old_table_dump`
+To produce these tables, you can:
+1. 3dclustsim to determine which cluster and threshold to use (TBA)
+2. `cluster_automator.py` (which calls `tableDump.py`) to dump out the table with relevant information (accessible in  accessible in `spantoolbox/group_analysis/old_table_dump`). Instructions for `cluster_automator.py`...
+* edit the `ttest_dirs` in the main loop to input the ttest directories for which you want tables
+* comment out the two `run_*` commands in the main script (leaving the `write_*` command uncommented), and run `python cluster_automator.py` to output `clustcommand` in each ttest directory
+* `cd` into each ttest directory and `chmod +x clustcommand`
+* comment out the `write_*` command in the main script (leaving the two `run_*` commands uncommented), and run `python cluster_automator.py` to output the `*.csv` files for each regressor of interest
 
 A more recent version of the script exists as clust2table.py
 
