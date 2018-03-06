@@ -20,11 +20,11 @@ To produce these tables, use (tools accessible in `spantoolbox/group_analysis/ol
 
 # Using clust2table.py
 
-A newer fancier script (by Nick Borg) can provide more information about the clusters (located in `spantoolbox/group_analysis/clust2table.py`):
+A newer fancier script (by Nick Borg) provides even more information about the clusters (located in `spantoolbox/group_analysis/clust2table.py`):
 * Multiple candidate region names, for both CM and Peak
 * Neurosynth associated terms for each cluster
 * Coordinates in both MNI and TLRC space. 
-but requires a bit more context: 
+but requires more context: 
 
 ### Requirements:
 * You must have python installed
