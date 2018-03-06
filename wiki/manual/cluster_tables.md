@@ -7,13 +7,13 @@ Left  Lingual Gyrus             	-13	-86	-9	4.9527	326
 Right Cerebellar Tonsil         	42	-54	-41	5.9384	183
 Right Superior Temporal Gyrus   	54	-57	26	5.1105	142
 ```
+Where zScore is usually the peak value and voxels is cluster size.
 
-Where zScore is usually the peak value and voxels is cluster size. We have automated this process. 
-
-To produce these tables, you can:
+To produce these tables, use:
 1. 3dclustsim to determine which cluster and threshold to use (TBA)
 2. `cluster_automator.py` (which calls `tableDump.py`) to dump out the table with relevant information (accessible in  accessible in `spantoolbox/group_analysis/old_table_dump`). Instructions for `cluster_automator.py`...
 * edit the `ttest_dirs` in the main loop to input the ttest directories for which you want tables
+* edit the `fid_write` line in `write_clustcommands()` function with the correct threshold and cluster size (note that the two thresholds come after the `-2thresh` flag and the cluster size is the third argument after the `-dxyz` flag)
 * comment out the two `run_*` commands in the main script (leaving the `write_*` command uncommented), and run `python cluster_automator.py` to output `clustcommand` in each ttest directory
 * `cd` into each ttest directory and `chmod +x clustcommand`
 * comment out the `write_*` command in the main script (leaving the two `run_*` commands uncommented), and run `python cluster_automator.py` to output the `*.csv` files for each regressor of interest
