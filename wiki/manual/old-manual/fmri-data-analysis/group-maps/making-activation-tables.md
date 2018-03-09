@@ -8,7 +8,7 @@
       2. [tableDump.py](#tabledump)
       3. [Visual inspection](#visual)
       
-<a name='voxelwise'</a>      
+<a name='voxelwise'></a>      
 ## Setting thresholds: Voxelwise
 
 In order to make a table, you first must set a threshold. One way to do this is to run a "Bonferroni correction" on every voxel tested. 
