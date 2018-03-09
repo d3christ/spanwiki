@@ -28,7 +28,7 @@
   - [Group anatomical (optional)](group-maps/group-anatomical.md)
   - [Group level t-tests](group-maps/group-level-t-tests.md)
   - Individual differences
-  - [Making activation tables]()
+  - [Making activation tables](group-maps/making-activation-tables.md)
 
 <a name='VOI-analysis'></a>
 ## Volume of Interest Analysis
