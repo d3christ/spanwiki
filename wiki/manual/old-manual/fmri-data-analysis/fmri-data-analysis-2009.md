@@ -34,7 +34,7 @@
 ## Volume of Interest Analysis
   - [Making VOI Masks](voi-analysis/making-voi-masks.md)
   - [Warping VOI Masks](voi-analysis/warping-voi-masks.md)
-  - [Plotting Timecourses]()
+  - Plotting Timecourses
       - [Raw Timecourses]()
       - [Generating Fitted Timecourses (iresp)]()
       - [Regression Coefficients]()
