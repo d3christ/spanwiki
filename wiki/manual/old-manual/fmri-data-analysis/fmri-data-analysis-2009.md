@@ -32,7 +32,7 @@
 
 <a name='VOI-analysis'></a>
 ## Volume of Interest Analysis
-  - [Making VOI Masks]()
+  - [Making VOI Masks](voi-analysis/making-voi-masks.md)
   - [Warping VOI Masks]()
   - [Plotting Timecourses]()
       - [Raw Timecourses]()
