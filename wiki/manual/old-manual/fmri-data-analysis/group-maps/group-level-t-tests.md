@@ -100,7 +100,7 @@ Remember to run your 3dttest scripts each time you add a new subject or a number
 _This is a sample script taken from dmthal.stanford.edu:/data3/bipomusic/scripts/3dttestantoutreg1b3c_
 
 _This script is uncommented (except by the original author) and is just for additional reference._
-
+```
 \<source lang="bash">
 
   1. ! /bin/csh
@@ -128,12 +128,106 @@ _This script is uncommented (except by the original author) and is just for addi
   23. 
   24. BETWEEN-GROUP 3DTTEST (BPD vs CTR)
 
-Set regfile (the name of the file that contains the coefficients you'll be inputting into your program)
-to be equal to your reg script output, here called "zmusicvscramreg".
-Also set your voxel resample size. If you don't want to resample set it to the native resolution (for us, 3.75).
-Be careful about resampling -- talk to Brian first, as it has consequences.
+  1. Set regfile (the name of the file that contains the coefficients you'll be inputting into your program)
+  2. to be equal to your reg script output, here called "zmusicvscramreg".
+  3. Also set your voxel resample size. If you don't want to resample set it to the native resolution (for us, 3.75).
+  4. Be careful about resampling -- talk to Brian first, as it has consequences.
+
 set regfile=zmusicvscramreg set resampdim=3.75
-For each subject: change into the subject's directory, look for a zmusicvscramreg file that's already been tlrc
-warped. If it exists, delete, since we're about to make it again. [Echo tells the program to print to our
-screen the initials of the subject being processed so that we can troubleshoot if the script chokes.]
+
+  1. For each subject: change into the subject's directory, look for a zmusicvscramreg file that's already been tlrc
+  2. warped. If it exists, delete, since we're about to make it again. [Echo tells the program to print to our
+  3. screen the initials of the subject being processed so that we can troubleshoot if the script chokes.]
+
 foreach subject ( ed mk jv th tk )# ad ec
+
+  cd ../${subject}*
+  echo processing ${subject}
+  if ( -e ${regfile}+tlrc.BRIK ) then
+    rm -rf ${regfile}+tlrc.*
+  endif
+ 
+  1. The adwarp command takes each individual's zmusicvscramreg+orig file and warps it into Talairach space using the
+  2. sag116+tlrc file 'roadmap'. Resample if instructed, then output the result as zmusicvscramreg+tlrc.
+  3. CD into ttests directory.
+  
+  adwarp -apar sag116+tlrc -dpar ${regfile}+orig -dxyz ${resampdim} -prefix ${regfile}
+  cd ../ttests
+ 
+end 
+
+  1. Remove contrast files if they already exist since we're about to create them.
+  2. !!!THIS SEEMS REDUDANT!!!
+
+foreach subject ( ds ed mk th ) # ec ad
+rm -rf tmusvscram1b3c+tlrc*
+
+  2. Now we're going to do the same process for each regressor:#
+  3. check for & delete old files, run 3dttest between-groups, #
+  4. create new t-test output files. #
+
+  1. 3dttest musvscram (reward vs neutral anticipation) group differences. Set 1 are the CTR subjects, set 2 are the BPD subjects.
+  2. The "t" at the beginning of the file names refers to the fact that the output is a t-stat.
+  3. So "tmusvscram1b3c" =
+  4. t for t-stat
+  5. musvscram for reward vs neutral anticipation
+  6. 1b for 1 BPD subjects
+  7. 3c for 3 CTR subjects
+  
+if ( -e tmusvscram1b3c+tlrc.BRIK ) then
+
+  rm -rf tmusvscram1b3c+tlrc.*
+ 
+endif
+3dttest -session . -prefix tmusvscram1b3c \ -set1 \ ../mk050807/${regfile}+tlrc'[20]' \ ../ed051607/${regfile}+tlrc'[20]' \ ../ds051107/${regfile}+tlrc'[20]' \
+  1. ../ad /${regfile}+tlrc'[20]' \
+-set2 \ ../th052307/${regfile}+tlrc'[20]' \
+  1. ../ec /${regfile}+tlrc'[20]' \
+  2. ../ /${regfile}+tlrc'[20]' \
+  1. Remove z_contrastname+tlrc* if it already exists because we're about
+  2. to make new z files when we converts the t-stat maps to z-score maps
+  3. using 3dmerge.
+rm -f zmusvscram1b3c+tlrc*
+  1. Convert t-stat maps to z-score maps with 3dmerge. Name output z*
+3dmerge -doall -1zscore -prefix zmusvscram1b3c tmusvscram1b3c+tlrc
+  1. Remove old t-stat maps.
+rm -f tmusvscram1b3c+tlrc*
+  1. Erase tlrc-warped files
+foreach subject ( ed mk jv th tk )# ad ec
+
+  cd ../${subject}*
+  echo Deleting tlrc-warped ${regfile} files for ${subject}
+  rm -rf ${regfile}+tlrc.*
+  cd ../ttests
+  
+end </source>
+```
+
+<a name='anova'></a>
+## ANOVA
+
+An ANOVA tests for significant differences between means from two or more groups.
+
+<a name='viewing'></a>
+## Viewing Your Contrast Data in AFNI and Thresholding Your Data
+
+_(NOTE: THIS IS APPLICABLE TO BOTH IN- AND BETWEEN-SUBJECT ANALYSES.)_
+
+To view your group contrasts (aka group maps) in AFNI, you’ll first need to select an individual’s brain to use as the underlay. Here we’ve chosen subject kp and we copy his axi and sag anatomical files from his folder into the ttests folder for the risk experiment:
+```
+span@dmthal riskfmri]$ cp kp012207/sag* ttests/.
+```
+Now change to the ttests directory (where you’ve placed your underlay subject’s files) in your experiment home directory and open afni:
+```
+span@dmthal riskfmri]$ cd ttests
+span@dmthal ttests]$ afni
+```
+In AFNI, go to Define Overlay, and set Olay to #1 and set Ulay to #1. Set ** to 1, and # to 9. Then deselect autoRange, and enter 10.
+
+Don’t think about why you have to set Olay and Ulay to the same thing in the Define Overlay window. There is a reason, but it is hard to explain. Briefly, using it you can threshold one dataset by another dataset.
+
+Note that the color range bar and the slider bar that you use to select your threshold for significance are NOT coupled/related in any way, though you can go in yourself and set certain colors on the color bar to correspond to certain stat ranges.
+
+To do so, on the color range bar note that each marking corresponds to a z-score. Right now these z scores will be rather arbitrary, but if you’ve deselected autorange and set your range to 10 (so that the brightest color equals a z of 10 and the coolest a z of -10) you will now be able to relate these bars to real z-scores (and therefore p values) of interest. As you move the slider to p values you care about (.01, .001, etc), note the z scores changing to the right. Now move your color markings so that each corresponds to a z score (for example, for a z score of 3.3 you move the marking to .33, which is simply the z-score divided by the range).
+
+Note that ULay and Olay at the bottom RH corner of the GUI (Graphical User Interface) tell you what the z-score is at the crosshair point.
