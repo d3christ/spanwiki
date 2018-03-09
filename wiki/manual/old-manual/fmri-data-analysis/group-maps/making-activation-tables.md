@@ -3,7 +3,7 @@
 ## Contents
   1. [Setting thresholds: Voxelwise](#voxelwise)
   2. [Setting thresholds: Incorporating cluster criteria](#cluster)
-  3. [Making activation tables](#activation-tables)
+  3. [Making activation tables](#making-activation-tables)
       1. [3dclust](#3dclust)
       2. [tableDump.py](#tabledump)
       3. [Visual inspection](#visual)
@@ -71,7 +71,7 @@ You can also set the p-value threshold you want (e.g. to allow separation of clu
 
 AlphaSim Manual Link: [PDF]()
 
-<a name='activation-tables'></a>
+<a name='making-activation-tables'></a>
 ## Making activation tables
 
 After setting a threshold, you can dump out a table by combining: (1) an AFNI program that dumps out information (3dclust) with (2) a python program that extracts and orders the relevant bits (tabledump.py).
