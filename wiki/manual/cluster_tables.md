@@ -18,9 +18,9 @@ To produce these tables, use (tools accessible in `spantoolbox/group_analysis/ol
 * `cd` into each ttest directory and `chmod +x clustcommand`
 * comment out the `write_*` command in the main script (leaving the two `run_*` commands uncommented), and run `python cluster_automator.py` to output the `*.csv` files for each regressor of interest
 
-# Using clust2table.py
+# Getting more information
 
-A newer fancier script (by Nick Borg) provides even more information about the clusters (located in `spantoolbox/group_analysis/clust2table.py`):
+A fancier script (by Nick Borg) provides even more information about the clusters (located in `spantoolbox/group_analysis/clust2table.py`):
 * Multiple candidate region names, for both CM and Peak
 * Neurosynth associated terms for each cluster
 * Coordinates in both MNI and TLRC space. 
