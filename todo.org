@@ -1,5 +1,5 @@
 To do: 
 
-* SVM (with RFE): Hsu
-* Whole brain tables: Knutson
-* Volume of interest analysis: ?
+SVM (with RFE): Hsu
+Whole brain tables: Knutson
+Volume of interest analysis: ?
