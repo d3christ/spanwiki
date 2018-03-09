@@ -1,5 +1,5 @@
-SPAN's new git-based wiki.
+To do: 
 
-* TODO SVMRFE write up
-  Maybe Tiffany can do this...
-* TODO ROI analysis write up.
+* SVM (with RFE): Hsu
+* Whole brain tables: Knutson
+* Volume of interest analysis: ?
