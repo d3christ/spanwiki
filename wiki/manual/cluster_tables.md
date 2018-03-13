@@ -18,11 +18,12 @@ I. Scripts for producing these tables are accessible in `spantoolbox/group_analy
 * `cd` into each ttest directory and `chmod +x clustcommand`
 * comment out the `write_*` command in the main script (leaving the two `run_*` commands uncommented), and run `python cluster_automator.py` to output the `*.csv` files for each regressor of interest
 
-II. The next step is to get LAYD (looking at your data). Specifically, you need to *visually* go through each of these foci and make sure it is in the gray matter and correctly labeled (*especially* in the striatum). Fortunately, AFNI can help with its graphic user interface and "table" button: 
+II. The next step is to get LAYD (looking at your data, people). Specifically, you need to *visually* go through each of these foci and make sure it is in the gray matter and correctly labeled (*especially* in the striatum). Fortunately, AFNI can help with its graphic user interface: 
 1. Go to the ttest directory with the files and open the .csv file in excel and afni. 
-2. In afni, click the 'Clusterize' button and set the cluster and significance threshold corresponding to your table. 
-3. Click the 'Rpt' button, which generates a report -- the coordinates should match those in your table. 
-4. Jump sequentially through each of the foci to make sure they are in your table and in the gray matter, and are properly named -- if not, edit the table to correct it. 
+2. In the same directory, open afni, select the correct map for an overlay, click the 'Clusterize' button and set the cluster and significance threshold corresponding to your table. 
+3. Click the 'Rpt' button, which should generate a report in which the coordinates match those in your table. 
+4. Jump sequentially through each of the foci to make sure they match those in your table, are somewhere in the gray matter, and are properly named -- if not, edit the table to correct it. 
+5. Slap that table into your paper (or supplement)!
 
 # Getting more information
 
