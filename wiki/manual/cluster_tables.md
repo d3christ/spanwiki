@@ -9,7 +9,7 @@ Right Superior Temporal Gyrus   	54	-57	26	5.1105	142
 ```
 (where zScore is usually the peak value and voxels is cluster size).
 
-Scripts for producing these tables are accessible in `spantoolbox/group_analysis/old_table_dump` (on uncus.stanford.edu):
+I. Scripts for producing these tables are accessible in `spantoolbox/group_analysis/old_table_dump` (on uncus.stanford.edu):
 1. 3dclustsim to determine which cluster and threshold to use (TBA)
 2. `cluster_automator.py` (which calls `tableDump.py`) to dump out the table with relevant information, as follows:
 * edit the `ttest_dirs` in the main loop to input the ttest directories for which you want tables
@@ -17,6 +17,12 @@ Scripts for producing these tables are accessible in `spantoolbox/group_analysis
 * comment out the two `run_*` commands in the main script (leaving the `write_*` command uncommented), and run `python cluster_automator.py` to output `clustcommand` in each ttest directory
 * `cd` into each ttest directory and `chmod +x clustcommand`
 * comment out the `write_*` command in the main script (leaving the two `run_*` commands uncommented), and run `python cluster_automator.py` to output the `*.csv` files for each regressor of interest
+
+II. The next step is to get LAYD (looking at your data). Specifically, you need to *visually* go through each of these foci and make sure it is in the gray matter and correctly labeled (*especially* in the striatum). Fortunately, AFNI can help with its graphic user interface and "table" button: 
+1. Go to the ttest directory with the files and open the .csv file in excel and afni. 
+2. In afni, click the 'Clusterize' button and set the cluster and significance threshold corresponding to your table. 
+3. Click the 'Rpt' button, which generates a report -- the coordinates should match those in your table. 
+4. Jump sequentially through each of the foci to make sure they are in your table and in the gray matter, and are properly named -- if not, edit the table to correct it. 
 
 # Getting more information
 
