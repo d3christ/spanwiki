@@ -9,6 +9,8 @@ Right Superior Temporal Gyrus   	54	-57	26	5.1105	142
 ```
 (where zScore is usually the peak value and voxels is cluster size).
 
+Here's how to make them:
+
 I. Use scripts to dump out tables (accessible in `spantoolbox/group_analysis/old_table_dump` on uncus.stanford.edu):
 1. 3dclustsim to determine which cluster and threshold to use (TBA)
 2. `cluster_automator.py` (which calls `tableDump.py`) to dump out the table with relevant information, as follows:
