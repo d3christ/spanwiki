@@ -1,5 +1,5 @@
 # Make cluster tables
-FMRI results often include tables that list activation clusters in whole brain maps, e.g.: 
+FMRI results often include tables that list activation clusters in whole brain maps (where zScore is usually the peak value and voxels is cluster size): 
 ```
 TTRegion	                        X	 Y	 Z	zScore	Voxels
 Right Lentiform Nucleus         	16	7	-3	7.3315	12937
@@ -7,9 +7,7 @@ Left  Lingual Gyrus             	-13	-86	-9	4.9527	326
 Right Cerebellar Tonsil         	42	-54	-41	5.9384	183
 Right Superior Temporal Gyrus   	54	-57	26	5.1105	142
 ```
-(where zScore is usually the peak value and voxels is cluster size).
-
-Here's how to make them:
+You can make them as follows:
 
 I. Use scripts to dump out tables (accessible in `spantoolbox/group_analysis/old_table_dump` on uncus.stanford.edu):
 1. 3dclustsim to determine which cluster and threshold to use (TBA)
