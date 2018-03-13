@@ -1,15 +1,15 @@
 # Cluster tables
 When writing up FMRI results, we often wish to add tables documenting activation clusters in whole brain maps, for example... 
 ```
-TTRegion	                        X	 Y	 Z	 zScore	 Voxels
-Right Lentiform Nucleus         	16	7	-3	 7.3315	 12937
+TTRegion	                        X	 Y	 Z	zScore	Voxels
+Right Lentiform Nucleus         	16	7	-3	7.3315	12937
 Left  Lingual Gyrus             	-13	-86	-9	4.9527	326
 Right Cerebellar Tonsil         	42	-54	-41	5.9384	183
 Right Superior Temporal Gyrus   	54	-57	26	5.1105	142
 ```
 (where zScore is usually the peak value and voxels is cluster size).
 
-To produce these tables, use (tools accessible in `spantoolbox/group_analysis/old_table_dump` on uncus.stanford.edu):
+Scripts for producing these tables are accessible in `spantoolbox/group_analysis/old_table_dump` (on uncus.stanford.edu):
 1. 3dclustsim to determine which cluster and threshold to use (TBA)
 2. `cluster_automator.py` (which calls `tableDump.py`) to dump out the table with relevant information, as follows:
 * edit the `ttest_dirs` in the main loop to input the ttest directories for which you want tables
