@@ -1,5 +1,5 @@
 # Make cluster tables
-When writing up FMRI results, we often wish to add tables documenting activation clusters in whole brain maps, for example... 
+FMRI results often include tables that list activation clusters in whole brain maps, e.g.: 
 ```
 TTRegion	                        X	 Y	 Z	zScore	Voxels
 Right Lentiform Nucleus         	16	7	-3	7.3315	12937
