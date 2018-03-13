@@ -1,4 +1,4 @@
-# Cluster tables
+# Make cluster tables
 When writing up FMRI results, we often wish to add tables documenting activation clusters in whole brain maps, for example... 
 ```
 TTRegion	                        X	 Y	 Z	zScore	Voxels
@@ -25,7 +25,7 @@ II. Get LAYD (looking at your data, people). Specifically, *visually* go through
 4. Jump sequentially through each of the foci to make sure they match those in your table, are somewhere in the gray matter, and are properly named -- if not, edit the table to correct it. 
 5. Slap that table into your paper (or supplement)!
 
-# Getting more information
+# Get even more information
 
 A fancier script (by Nick Borg) provides even more information about the clusters (located in `spantoolbox/group_analysis/clust2table.py`):
 * Multiple candidate region names, for both CM and Peak
