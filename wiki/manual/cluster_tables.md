@@ -29,7 +29,7 @@ II. Get LAYD (looking at your data, people). Specifically, *visually* go through
 
 # Get even more information
 
-A fancier script (by Nick Borg) provides even more information about the clusters (located in `spantoolbox/group_analysis/clust2table.py`):
+A fancier script provides even more information about the clusters (courtesy Nick Borg, located in `spantoolbox/group_analysis/clust2table.py`):
 * Multiple candidate region names, for both CM and Peak
 * Neurosynth associated terms for each cluster
 * Coordinates in both MNI and TLRC space. 
