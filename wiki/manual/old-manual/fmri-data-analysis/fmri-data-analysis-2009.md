@@ -36,7 +36,7 @@
   - [Warping VOI Masks](voi-analysis/warping-voi-masks.md)
   - Plotting Timecourses
       - [Raw Timecourses](voi-analysis/raw-timecourses.md)
-      - [Generating Fitted Timecourses (iresp)]()
+      - [Generating Fitted Timecourses (iresp)](voi-analysis/iresp-method.md)
       - [Regression Coefficients]()
   - [Logistic regression]()
   - [Mediation Analysis]()
