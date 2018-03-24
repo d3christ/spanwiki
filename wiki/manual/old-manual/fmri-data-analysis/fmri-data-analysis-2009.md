@@ -39,7 +39,7 @@
       - [Generating Fitted Timecourses (iresp)](voi-analysis/iresp-method.md)
       - [Regression Coefficients](voi-analysis/regression-coefficients.md)
   - [Logistic regression](voi-analysis/logistic-regression.md)
-  - [Mediation Analysis]()
+  - [Mediation Analysis](voi-analysis/mediation.md)
 
 <a name='AFNI'></a>
 ## AFNI command help
