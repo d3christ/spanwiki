@@ -37,7 +37,7 @@
   - Plotting Timecourses
       - [Raw Timecourses](voi-analysis/raw-timecourses.md)
       - [Generating Fitted Timecourses (iresp)](voi-analysis/iresp-method.md)
-      - [Regression Coefficients]()
+      - [Regression Coefficients](voi-analysis/regression-coefficients.md)
   - [Logistic regression]()
   - [Mediation Analysis]()
 
