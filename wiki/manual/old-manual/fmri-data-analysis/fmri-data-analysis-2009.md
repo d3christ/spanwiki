@@ -38,7 +38,7 @@
       - [Raw Timecourses](voi-analysis/raw-timecourses.md)
       - [Generating Fitted Timecourses (iresp)](voi-analysis/iresp-method.md)
       - [Regression Coefficients](voi-analysis/regression-coefficients.md)
-  - [Logistic regression]()
+  - [Logistic regression](voi-analysis/logistic-regression.md)
   - [Mediation Analysis]()
 
 <a name='AFNI'></a>
