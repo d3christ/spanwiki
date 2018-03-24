@@ -1,5 +1,10 @@
 [Old Manual Wiki](https://web.stanford.edu/group/spanlab/cgi-bin/wiki/index.php?title=Lab_Manual)
 
+```
+TO DO:
+ – When Makecoeftable.py.md is created, add its path to empty link in fmri-data-analysis/voi-analysis/regression-coefficients.md.
+```
+
 ### Contents
 1. [Introduction & Resources](#introduction)
 2. [Subjects & Scanning](#subjects-scanning)
