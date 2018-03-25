@@ -43,7 +43,7 @@
 
 <a name='AFNI'></a>
 ## AFNI command help
-[AFNI Programs and Plugins](#afni-programs.md): Here is a list of useful AFNI commands and their functions. You can also google commands on the AFNI discussion board, or type in the afni command at the command prompt.
+[AFNI Programs and Plugins](afni-programs.md): Here is a list of useful AFNI commands and their functions. You can also google commands on the AFNI discussion board, or type in the afni command at the command prompt.
 
 <a name='program-guides'></a>
 ## General Program Guides
