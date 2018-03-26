@@ -45,3 +45,63 @@
   - [3dThreetoRGB](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dThreetoRGB.html)<br>
     Convert 3 scalar datasets to 1 RGB AFNI format dataset
 
+<a name='2'></a>
+## Auxiliary Programs for Dataset Creation from Images
+  - [Ifile](http://afni.nimh.nih.gov/pub/dist/doc/program_help/Ifile.html)<br>
+    Read GE realtime EPI files and runs to3d
+  - [Imon](http://afni.nimh.nih.gov/pub/dist/doc/program_help/Imon.html)<br>
+    Read GE realtime EPI files as they are created
+  - [Dimon](http://afni.nimh.nih.gov/pub/dist/doc/program_help/Dimon.html)<br>
+    Read DICOM files on disk or as they are created
+  - [rtfeedme](http://afni.nimh.nih.gov/pub/dist/doc/program_help/rtfeedme.html)<br>
+    Dissect one dataset, sends images to AFNI realtime plugin
+  - plugin RT Options<br>
+    Control options for AFNI realtime image input
+  - [from3d](http://afni.nimh.nih.gov/pub/dist/doc/program_help/from3d.html)<br>
+    Write dataset slices into image files
+  - [abut](http://afni.nimh.nih.gov/pub/dist/doc/program_help/abut.html)<br>
+    Create zero-filled slices to put into dataset gaps   
+ 
+<a name='3'></a>
+## Quality Checks for 3D+time Datasets
+  - [3dToutcount](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dToutcount.html)<br>
+    Check voxel time series for quality (temporal outliers)
+  - [3dTqual](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dTqual.html)<br>
+    Check dataset sub-bricks for quality (spatial outliers)
+    
+<a name='4'></a>
+## 3D+time Pre-Processing Programs
+  - [3DTshift](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dTshift.html)<br>
+    Shift slices to a common time origin (temporal interpolation)
+  - [3dDespike](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dDespike.html)<br>
+    Remove spikes from voxel time series
+  - [3dDetrend](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dDetrend.html)<br>
+    Remove trends from voxel time series
+  - [3DFourier](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dFourier.html)<br>
+    FFT-based lowpass and highpass filtering
+  - [3dTsmooth](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dTsmooth.html)<br>
+    Smooth time series in the time domain
+    
+<a name='5'></a>
+## 3D+time Analysis Programs
+  - [3dDeconvolve](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dDeconvolve.html)<br>
+    Multiple linear regression and deconvolution
+  - [3dSynthesize](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSynthesize.html)<br>
+    Compute 3d+time dataset from partial model
+  - plugin Deconvolution<br>
+    Interactive deconvolution
+  - [3ddelay](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3ddelay.html)<br>
+    Single regressor linear analysis with time shifting
+  - [3dNLfim](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dNLfim.html)<br>
+    Nonlinear regression
+  - plugin Nlfit & Nlerr<br>
+    Interactive nonlinear regression
+  - [3dTcorrelate](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dTcorrelate.html)<br>
+    Correlate two input datasets, voxel-by-voxel
+  - [3dAutoTcorrelate](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dAutoTcorrelate.html)<br>
+    Correlate each voxel with every other voxel
+  - [3dpc](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dpc.html)<br>
+    Principal component analysis
+    
+<a name='6'></a>
+## Model 1D Time Series Generators
