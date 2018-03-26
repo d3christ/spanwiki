@@ -55,7 +55,7 @@
     Read DICOM files on disk or as they are created
   - [rtfeedme](http://afni.nimh.nih.gov/pub/dist/doc/program_help/rtfeedme.html)<br>
     Dissect one dataset, sends images to AFNI realtime plugin
-  - plugin RT Options<br>
+  - __plugin RT Options__<br>
     Control options for AFNI realtime image input
   - [from3d](http://afni.nimh.nih.gov/pub/dist/doc/program_help/from3d.html)<br>
     Write dataset slices into image files
@@ -88,13 +88,13 @@
     Multiple linear regression and deconvolution
   - [3dSynthesize](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dSynthesize.html)<br>
     Compute 3d+time dataset from partial model
-  - plugin Deconvolution<br>
+  - __plugin Deconvolution__<br>
     Interactive deconvolution
   - [3ddelay](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3ddelay.html)<br>
     Single regressor linear analysis with time shifting
   - [3dNLfim](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dNLfim.html)<br>
     Nonlinear regression
-  - plugin Nlfit & Nlerr<br>
+  - __plugin Nlfit & Nlerr__<br>
     Interactive nonlinear regression
   - [3dTcorrelate](http://afni.nimh.nih.gov/pub/dist/doc/program_help/3dTcorrelate.html)<br>
     Correlate two input datasets, voxel-by-voxel
