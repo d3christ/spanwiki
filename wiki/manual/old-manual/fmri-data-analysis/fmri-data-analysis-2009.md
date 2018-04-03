@@ -47,7 +47,7 @@
 
 <a name='program-guides'></a>
 ## General Program Guides
-  - [E-Prime]()
+  - [E-Prime](general-program-guides/eprime.md)
   - [MATLAB]()
   - [Stata]()
 
