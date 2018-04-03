@@ -40,7 +40,7 @@ TO DO:
 <a name="exp-design"></a>
 ### Experiment Design & Implementation
 [Principles of fMRI design]()\
-[Eprime]()\
+[Eprime](fmri-data-analysis/general-program-guides/eprime.md)\
 [Matlab]()\
 [Real-time Feedback]()\
 [Subject Screening]()
