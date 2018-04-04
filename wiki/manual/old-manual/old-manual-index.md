@@ -50,7 +50,7 @@ TO DO:
 <a name="computing/software"></a>
 ### Computing/Software Resources
 [Scanning Notices](computing-software-resources/scanning-notices.md)\
-[Computing Resources]()\
+[Computing Resources](computing-software-resources/computing-resources.md)\
 [Unix/Linux Primer]()\
 [Linux for Dummies 8th Edition]()\
 [Moving and Saving Files]()\
