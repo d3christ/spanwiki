@@ -161,6 +161,7 @@ __resources:__ [Kacey Ballard's Illustrator Cheat Sheet](https://web.stanford.ed
 <a name='adobe-photoshop'></a>
 ## Adobe Photoshop
 __help:__ Dan Yoo
+
 __open source alternative:__ GIMP
 
 <a name='r'></a>
