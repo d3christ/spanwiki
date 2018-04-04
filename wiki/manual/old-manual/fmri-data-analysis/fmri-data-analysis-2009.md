@@ -49,7 +49,7 @@
 ## General Program Guides
   - [E-Prime](general-program-guides/eprime.md)
   - [MATLAB](general-program-guides/matlab.md)
-  - [Stata]()
+  - [Stata](general-program-guides/stata.md)
 
 <a name='newbies'></a>
 ## Exercise for newbies
