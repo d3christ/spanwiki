@@ -34,7 +34,7 @@ TO DO:
 <a name="conf-pub-fund"></a>
 ### Conferences, Publications, Funding
 [Conferences]()\
-[Publications]()\
+[Publications](conferences-publications-funding/publications.md)\
 [Funding]()
 
 <a name="exp-design"></a>
