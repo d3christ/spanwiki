@@ -1,6 +1,6 @@
 # Scanning Notices
 
-under construction... for now see [Protocols](spanwiki/wiki/manual/old-manual/subjects-and-scanning/scanning.md)
+under construction... for now see [Protocols]()
 
 ## Important! Higher Order Shim
 
