@@ -48,7 +48,7 @@ TO DO:
 
 <a name="computing/software"></a>
 ### Computing/Software Resources
-[Scanning Notices]()\
+[Scanning Notices](computing-software-resources/scanning-notices.md)\
 [Computing Resources]()\
 [Unix/Linux Primer]()\
 [Linux for Dummies 8th Edition]()\
