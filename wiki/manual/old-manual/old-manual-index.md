@@ -2,7 +2,8 @@
 
 ```
 TO DO:
- – computing-resources.md page links to a Scripts page which does not exist, therefore link is broken.
+ – computing-resources.md page links to a Scripts page which is in one of the Previous forms of
+   the Data Analysis section, which were not copied over to Github.
 ```
 
 ### Contents
