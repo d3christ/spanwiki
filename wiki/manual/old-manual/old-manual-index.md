@@ -64,4 +64,4 @@ TO DO:
 <a name="online-resources"></a>
 ### SPAN Online Resources
 [SPAN-ipedia Wiki](span-online-resources/spanipedia.md)\
-[Useful Links]()
+[Useful Links](span-online-resources/useful-links.md)
