@@ -2,7 +2,7 @@
 
 ```
 TO DO:
- – When Makecoeftable.py.md is created, add its path to empty link in fmri-data-analysis/voi-analysis/regression-coefficients.md.
+ – regression-coefficients.md links to a Makecoeftable.py page which does not exist, there link is broken.
  – scanning-notices.md page links to a Protocols page which does not exist, therefore link is broken.
  – computing-resources.md page links to a Scripts page which does not exist, therefore link is broken.
 ```
