@@ -53,7 +53,7 @@ TO DO:
 [Computing Resources](computing-software-resources/computing-resources.md)\
 [Unix/Linux Primer](computing-software-resources/unix-linux-primer.md)\
 [Linux for Dummies 8th Edition](computing-software-resources/linux-for-dummies.md)\
-[Moving and Saving Files]()\
+[Moving and Saving Files](computing-software-resources/moving-and-saving-files.md)\
 [File Naming Conventions]()\
 [fMRI Utilities]()\
 [AFNI]()\
