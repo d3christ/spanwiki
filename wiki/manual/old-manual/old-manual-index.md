@@ -31,21 +31,21 @@ TO DO:
 <a name="data-analysis"></a>
 ### FMRI Data Analysis
 [FMRI Data Analysis 2009](fmri-data-analysis/fmri-data-analysis-2009.md)\
-[Previous form of Data Analysis Section]()
+[Previous form of Data Analysis Section]
 
 <a name="conf-pub-fund"></a>
 ### Conferences, Publications, Funding
-[Conferences]()\
+[Conferences]\
 [Publication](conferences-publications-funding/publication.md)\
-[Funding]()
+[Funding]
 
 <a name="exp-design"></a>
 ### Experiment Design & Implementation
-[Principles of fMRI design]()\
+[Principles of fMRI design]\
 [Eprime](fmri-data-analysis/general-program-guides/eprime.md)\
-[Matlab]()\
-[Real-time Feedback]()\
-[Subject Screening]()
+[Matlab]\
+[Real-time Feedback]\
+[Subject Screening]
 
 <a name="computing/software"></a>
 ### Computing/Software Resources
@@ -57,7 +57,7 @@ TO DO:
 [File Naming Conventions](computing-software-resources/file-naming-conventions.md)\
 [fMRI Utilities](computing-software-resources/fmri-utilities.md)\
 [AFNI](computing-software-resources/afni.md)\
-[SPM]()\
+[SPM]\
 [Meta Analysis](computing-software-resources/meta-analysis.md)\
 [AlphaSim](computing-software-resources/alphasim.md)
 
