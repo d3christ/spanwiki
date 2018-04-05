@@ -59,7 +59,7 @@ TO DO:
 [AFNI](computing-software-resources/afni.md)\
 [SPM]()\
 [Meta Analysis](computing-software-resources/meta-analysis.md)\
-[AlphaSim]()
+[AlphaSim](computing-software-resources/alphasim.md)
 
 <a name="online-resources"></a>
 ### SPAN Online Resources
