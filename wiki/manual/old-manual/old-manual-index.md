@@ -56,7 +56,7 @@ TO DO:
 [Moving and Saving Files](computing-software-resources/moving-and-saving-files.md)\
 [File Naming Conventions](computing-software-resources/file-naming-conventions.md)\
 [fMRI Utilities](computing-software-resources/fmri-utilities.md)\
-[AFNI]()\
+[AFNI](computing-software-resources/afni.md)\
 [SPM]()\
 [Meta Analysis]()\
 [AlphaSim]()
