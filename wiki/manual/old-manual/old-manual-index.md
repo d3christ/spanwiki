@@ -54,7 +54,7 @@ TO DO:
 [Unix/Linux Primer](computing-software-resources/unix-linux-primer.md)\
 [Linux for Dummies 8th Edition](computing-software-resources/linux-for-dummies.md)\
 [Moving and Saving Files](computing-software-resources/moving-and-saving-files.md)\
-[File Naming Conventions]()\
+[File Naming Conventions](computing-software-resources/file-naming-conventions.md)\
 [fMRI Utilities]()\
 [AFNI]()\
 [SPM]()\
