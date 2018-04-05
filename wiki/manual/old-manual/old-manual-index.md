@@ -52,7 +52,7 @@ TO DO:
 [Scanning Notices](computing-software-resources/scanning-notices.md)\
 [Computing Resources](computing-software-resources/computing-resources.md)\
 [Unix/Linux Primer](computing-software-resources/unix-linux-primer.md)\
-[Linux for Dummies 8th Edition]()\
+[Linux for Dummies 8th Edition](computing-software-resources/linux-for-dummies.md)\
 [Moving and Saving Files]()\
 [File Naming Conventions]()\
 [fMRI Utilities]()\
