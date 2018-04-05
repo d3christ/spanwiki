@@ -5,6 +5,7 @@ If you work on anything in the lab you’re going to be moving files between dif
 There are five computers in the lab that run SFTP (Secure File Transfer Protocol – you want to use this!) server programs on top of the psych.stanford.edu server. That means that you can connect to these computers from any other computer to upload or download files. These five computers are
 
 __Name	&	Room__
+
 dmthal.stanford.edu 465 (the main Linux station)\
 mpfc.stanford.edu	470\
 nacc.stanford.edu	478\
@@ -21,6 +22,7 @@ If you want to move a file onto a Windows PC you’ll need to put it on one of t
 Alternatively, you can email the file to yourself if it’s less than 12MB, or you can place it on the lab memory stick (see the lab coordinator) to transfer. You’ll need to do the same if you move files between the two Sony laptops. If you move files between the laptops you’re probably moving E-Prime files, in which case you should upload the file to the “tasks” folder on the psych server.
 
 __From a Mac:__
+
   - Use MacSFTP or Fugu (icon located on the launch bar at the bottom of the screen)
   - Enter the address of the computer you’re connecting to under “host name” (e.g., “vta.stanford.edu” or “dmthal.stanford.edu”
   - Enter “span” for the login (or “knutson” if you are connecting to vta or insula)
@@ -32,6 +34,7 @@ __From a Mac:__
 __From a Windows PC:__ Use SecureFX. Go to “quick connect” and connect to a server using SFTP, or use one of the saved connection profiles. This program is pretty user friendly (ignore license warnings); if you have any questions, ask the lab coordinator.
 
 __From a Linux station:__
+
 You can use sftp or scp on the command line.
 
 Using sftp (to place or grab a file or folder onto/from another SFTP server … that is to say, another computer):
