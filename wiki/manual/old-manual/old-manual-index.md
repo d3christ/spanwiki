@@ -2,7 +2,6 @@
 
 ```
 TO DO:
- – scanning-notices.md page links to a Protocols page which does not exist, therefore link is broken.
  – computing-resources.md page links to a Scripts page which does not exist, therefore link is broken.
 ```
 
