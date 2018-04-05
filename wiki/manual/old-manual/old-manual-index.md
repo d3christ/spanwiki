@@ -2,7 +2,7 @@
 
 ```
 TO DO:
- – computing-resources.md page links to a Scripts page which is in one of the Previous forms of
+ – computing-resources.md page links to a Scripts page which is in one of the previous forms of
    the Data Analysis section, which were not copied over to Github.
 ```
 
