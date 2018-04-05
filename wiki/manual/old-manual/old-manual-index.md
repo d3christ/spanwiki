@@ -51,7 +51,7 @@ TO DO:
 ### Computing/Software Resources
 [Scanning Notices](computing-software-resources/scanning-notices.md)\
 [Computing Resources](computing-software-resources/computing-resources.md)\
-[Unix/Linux Primer]()\
+[Unix/Linux Primer](computing-software-resources/unix-linux-primer.md)\
 [Linux for Dummies 8th Edition]()\
 [Moving and Saving Files]()\
 [File Naming Conventions]()\
