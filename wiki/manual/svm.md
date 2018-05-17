@@ -38,7 +38,7 @@ across runs and subjects). For visual stimulation, 2.5% of the features at a cla
 parameter of C = 0.001 best classified stimulation versus no stimulation at a peak value of 82%
 accuracy."
 
-Sample Figures (cf. Ferenczi et al., 2016, Science, supplement): 
+Sample Figure (cf. Ferenczi et al., 2016, Science, supplement): 
 
 
 
