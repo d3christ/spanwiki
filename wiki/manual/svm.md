@@ -6,10 +6,11 @@ Motivation: Imagine you have whole brain data (temporally resolved or not) and w
 3) Backproject the selected features into space and time for interpretation 
 Thanks to the magic of machine learning analyses, such model-free techniques exist! One of them is called "Support Vector Machines with Recursive Feature Elimination (or SVM-RFE). The general goal of SVM-RFE is to maximize classification while minimizing features (which addresses statistical problems in which p>>n). Here, in addition to this overview of the procedure, we provide relevant code for implementing SVM-RFE on whole brain data, and also include a sample write-up for describing results. 
 
-Code: 
-TBA
+Code (TBA): 
+Task-specific parameters []
+Python code that calls tooboxes []
 
-Sample Results (cf. Ferenczi et al., 2016, Science, supplement): 
+Sample Description (cf. Ferenczi et al., 2016, Science, supplement): 
 "Support vector machine classification analysis with recursive feature elimination
 To obtain a model-free confirmation of the effects of pharmacological agents on optogenetic
 midbrain stimulation, we applied a support vector machine classification analysis with recursive
@@ -38,11 +39,9 @@ across runs and subjects). For visual stimulation, 2.5% of the features at a cla
 parameter of C = 0.001 best classified stimulation versus no stimulation at a peak value of 82%
 accuracy."
 
-Sample Figure (cf. Ferenczi et al., 2016, Science, supplement): 
+Sample Figure (cf. Ferenczi et al., 2016, Science, Figure S6): 
 
-
-
-Common mistakes (cf. : 
+Common mistakes (cf. Lemm et al., 2011, NeuroImage, Table 1: Hall of Pitfalls [https://www.sciencedirect.com/science/article/pii/S1053811910014163])
 * Not normalizing data within voxels before classification
 * Not filtering the data for time-dependent confounds (e.g., using high pass filtering)
 * Not warping all the data into the same space (e.g., Talairach space)
