@@ -9,7 +9,7 @@ Thanks to the magic of machine learning analyses, such model-free techniques exi
 Code: 
 TBA
 
-Sample Results (from the supplement of Ferenczi et al., 2016): 
+Sample Results (cf. Ferenczi et al., 2016, Science, supplement): 
 "Support vector machine classification analysis with recursive feature elimination
 To obtain a model-free confirmation of the effects of pharmacological agents on optogenetic
 midbrain stimulation, we applied a support vector machine classification analysis with recursive
@@ -38,7 +38,11 @@ across runs and subjects). For visual stimulation, 2.5% of the features at a cla
 parameter of C = 0.001 best classified stimulation versus no stimulation at a peak value of 82%
 accuracy."
 
-Common mistakes: 
+Sample Figures (cf. Ferenczi et al., 2016, Science, supplement): 
+
+
+
+Common mistakes (cf. : 
 * Not normalizing data within voxels before classification
 * Not filtering the data for time-dependent confounds (e.g., using high pass filtering)
 * Not warping all the data into the same space (e.g., Talairach space)
