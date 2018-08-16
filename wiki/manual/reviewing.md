@@ -1,5 +1,5 @@
 
-Reviewing (each ~ 1-2 paragraphs, except Comments): 
+<b>Reviewing</b> (each ~ 1-2 paragraphs, except Comments): 
 
 1. Summarize / paraphrase (restating the contribution in your own words)
 2. Note major strengths (most don't, sadly)
