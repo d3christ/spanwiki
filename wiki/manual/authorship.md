@@ -1,5 +1,5 @@
 
-Determining Authorship: 
+<b>Determining Authorship</b>: 
 
 Authorship can take one of three common formats: 
 
