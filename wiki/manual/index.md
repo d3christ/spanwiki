@@ -52,6 +52,8 @@
 
 ### Admin
 
+[Lab Meetings](meetings.md)
+
 [Hiring](hiring.md)
 
 
