@@ -62,7 +62,7 @@ __Principal Investigator:__ Brian Knutson
 
 (also teaching, serving on committees, and a bunch of other obligations that have nothing to do with his training)
 
-__Lab Coordinator:__ Nicholas Borg
+__Lab Coordinator:__ Tara Srirangarajan
 - Tracks finances (i.e., subject payment money and forms)
 - Updates human subjects approval
 - Purchases new equipment
