@@ -1,6 +1,6 @@
 # Quick Reference
 
-Here is a basic preprocessing script to work with: [http://www-psych.stanford.edu/~span/Scripts/process preprocess]
+Here is a basic preprocessing script to work with: [Insert linked script]
 
 In order to tailor the script to your dataset, you need to change three things:
 
