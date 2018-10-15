@@ -2,7 +2,7 @@
 
 If you are a member of the lab and see something wrong or out of date with an existing section, or wish to add your own new section, then you should contribute! 
 
-First, talk to the current lab manager to get the login information for the github spanlab account, or (even better) have the admin to make you a collaborator. 
+First, talk to the current lab manager to get the login information for the github spanlab account, or (even better) ask the admin to make you a collaborator. 
 
 Second, edit the relevant .md file, or make a new one. Looking at the raw version of any of the files should make it pretty clear how markdown works. 
 
