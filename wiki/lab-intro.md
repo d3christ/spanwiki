@@ -146,7 +146,7 @@ __Room 470:__ Brian’s office. This is where the intellectual magic happens. (c
 
 __Rooms 469, 478, and 480:__ Grad student and RA offices. More magic. Room 480 holds a Linux workstation called amygdala that is for general lab use. (478 currently holds span@nac (with J. Cooper)).
 
-__Lucas Center:__ We scan with the 1.5 Tesla magnet and the 3 Tesla magnet, but by and large we use the 1.5T. If you’re scanning, you should have someone show you where everything is. Make sure that one of you has a swipe card with which to get in.
+__CNI:__ We scan with the 1.5 Tesla magnet and the 3 Tesla magnet, but by and large we use the 1.5T. If you’re scanning, you should have someone show you where everything is. Make sure that one of you has a swipe card with which to get in.
 
 Keep in mind that you’ll need to bring consent forms, questionnaires, and payment forms. If you ever forget to bring anything, there may be extras in the knutson drawer in the prep room outside the magnet room (1.5T only). If you take extras try to replenish the supply the next chance you get. Also, if the bite bar goop is going low, check with the lab manager or check on top of the brown bookcase in rm 465. The windows computer in the first room (closest to the lobby reception area) can connect to the scanner computer and is used to grab data and transfer it to the spanlab computers (use SecureFX to connect). Follow instructions on the wall next to the computer to grab data files from the scanner computer (use get11 for structurals, SecureFX to lcmr1 for functionals at the 1.5T – also see the scanning protocol in a later section of this manual).
 
