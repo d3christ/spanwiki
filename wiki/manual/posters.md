@@ -1,4 +1,4 @@
-<b>Poster Presentations</b>: 
+# <b>Poster Presentations</b>: 
 
 Here are two poster templates, both with dimensions of 48" x 36", which is fairly standard. 
 
