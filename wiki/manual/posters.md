@@ -13,7 +13,9 @@ Design:
 Submission:
 
 If you submit a poster, make sure you will be around to present it!
+
 Underpromise, overdeliver
+
 Aim for publication
 
 
