@@ -10,10 +10,11 @@ Poster template in powerpoint format: https://github.com/spanlab/spanwiki/blob/m
 
 Benefits of presenting a poster include
 
-1. Publicizing your research 
-2. Learning about other people's research
-3. Networking with potential employers
-4. Recon
+1. Publicizing your research to the scientific community
+2. Learning about other people's research and exchanging ideas
+3. Networking with potential employers and hearing about job opportunities
+4. Reconnecting with friends and former colleagues
+5. Being able to list the poster presentation on your CV
 
 <b>Design:</b> 
 
@@ -24,11 +25,9 @@ Benefits of presenting a poster include
 
 <b>Submission:</b>
 
-If you submit a poster, make sure you will be around to present it!
-
-Underpromise, overdeliver
-
-Aim for publication
+1. If you submit a poster, make sure you will be around to present it!
+2. Underpromise, overdeliver
+3. Aim for publication
 
 
       
