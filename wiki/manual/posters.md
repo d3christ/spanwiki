@@ -13,20 +13,20 @@ Benefits of presenting a poster include
 1. Publicizing your research to the scientific community
 2. Learning about other people's research and exchanging ideas
 3. Networking with potential employers and hearing about job opportunities
-4. Reconnecting with friends and former colleagues
+4. Reconnecting with former colleagues 
 5. Being able to list the poster presentation on your CV
 
 <b>Design:</b> 
 
-1. Make your poster as easy to read as possible by minimizing the amount of text
-2. Consider indicating what part of a figure the viewer should be focusing on (like marking an ROI with a red circle)
+1. Make your poster as easy to read as possible by minimizing the amount of text and balancing the amount of white space
+2. Consider delineating which part of a figure the viewer should be focusing on (like indicating the ROI with a red circle)
 3. Be specific with your results (an example would be to write "x increases y," rather than "x is related to y")
-4. Include the poster number and/or session number at the top to make it easier for people to find it during the presentation
+4. Include the poster number and/or section number at the top to make it easier for people to find your poster during the poster session
 
 <b>Submission:</b>
 
-1. If you submit a poster to a conference, make sure you can actually be there and present it!
-2. Underpromise, overdeliver
+1. If you submit a poster to a conference, make sure you can actually be there and present it
+2. Underpromise, overdeliver (i.e. your findings)
 3. Aim for publication
 
 
