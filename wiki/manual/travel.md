@@ -7,7 +7,7 @@ Some of the Spanlab's core conferences include:
 3. Society for Affective Science?
 4. APS/APA/SANS?
 
-<b> Conference expenses <b/>
+<b> Conference expenses </b>
   
  The Spanlab may reimburse conference expenses (check with Brian for information about the annual budget).  Possible expenses to be reimburses include:
  
