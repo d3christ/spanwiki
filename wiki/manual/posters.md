@@ -18,7 +18,7 @@ Benefits of presenting a poster include
 
 <b>Design:</b> 
 
-1. Make your poster as easy to read as possible by minimizing the amount of text and balancing the amount of white space
+1. Make your poster as easy to read as possible by minimizing the amount of text 
 2. Consider delineating which part of a figure the viewer should be focusing on (like indicating the ROI with a red circle)
 3. Be specific with your results (an example would be to write "x increases y," rather than "x is related to y")
 4. Include the poster number and/or section number at the top to make it easier for people to find your poster during the poster session
