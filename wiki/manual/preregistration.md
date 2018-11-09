@@ -1,4 +1,5 @@
 <b>Setting up preregistration</b>: 
+
 A new website that helps you preregister your study: https://aspredicted.org/
 
 Instructions for preregistering on the Open Science Framework (OSF): http://help.osf.io/m/registrations/l/524205-register-your-project
