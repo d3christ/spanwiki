@@ -15,7 +15,7 @@ Benefits of presenting a poster include
 3. Networking with potential employers and hearing about job opportunities
 4. Reconnecting with former colleagues 
 5. Being able to list the poster presentation on your CV
-6. Gauging general interest and possible getting some intel about who to suggest or not suggest as a possible reviewer when eventually submitting a paper
+6. Gauging general interest and possibly getting some intel about possible reviewers for the future
 
 <b>Design:</b> 
 
