@@ -8,11 +8,19 @@ Poster template in powerpoint format: https://github.com/spanlab/spanwiki/blob/m
 
 Goals/Motivation:
 
+Benefits of presenting a poster include
+
+1. Publicizing your research 
+2. Learning about other people's research
+3. Networking with potential employers
+4. Recon
+
 Design: 
 
 1. Make your poster as easy to read as possible by minimizing the amount of text
 2. Consider indicating what part of a figure the viewer should be focusing on (like marking an ROI with a red circle)
-3. Include the poster number and/or session number at the top to make it easier for people to find it during the presentation
+3. Be specific with your results (an example would be to write "x increases y," rather than "x is related to y")
+4. Include the poster number and/or session number at the top to make it easier for people to find it during the presentation
 
 Submission:
 
