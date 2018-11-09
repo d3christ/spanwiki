@@ -1,6 +1,6 @@
 # <b>Poster Presentations</b>: 
 
-Here are two poster templates you can download and modify, both with dimensions of 48" x 36", which is fairly standard. 
+Here are two poster templates you can download and modify. Both have standard dimensions of 48" x 36". 
 
 Poster template in keynote format: https://github.com/spanlab/spanwiki/blob/master/wiki/manual/old-manual/SPANLab_PosterTemplate2018.key
 
@@ -8,7 +8,7 @@ Poster template in powerpoint format: https://github.com/spanlab/spanwiki/blob/m
 
 Goals/Motivation:
 
-Design:
+Design: 1. Make your poster as easy to read as possible
 
 Submission:
 
