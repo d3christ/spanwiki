@@ -11,7 +11,8 @@ Goals/Motivation:
 Design: 
 
 1. Make your poster as easy to read as possible by minimizing the amount of text
-2. Consider indicating what part of a figure the viewer should be focusing on (such as clearly marking the ROI with a red circle)
+2. Consider indicating what part of a figure the viewer should be focusing on (like marking an ROI with a red circle)
+3. Include the poster number and/or session number at the top to make it easier for people to find it and come by
 
 Submission:
 
