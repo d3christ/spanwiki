@@ -8,7 +8,9 @@ Poster template in powerpoint format: https://github.com/spanlab/spanwiki/blob/m
 
 Goals/Motivation:
 
-Design: 1. Make your poster as easy to read as possible
+Design: 
+
+1. Make your poster as easy to read as possible
 
 Submission:
 
