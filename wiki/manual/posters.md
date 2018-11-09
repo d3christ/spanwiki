@@ -25,7 +25,7 @@ Benefits of presenting a poster include
 
 <b>Submission:</b>
 
-1. If you submit a poster, make sure you will be around to present it!
+1. If you submit a poster to a conference, make sure you can actually be there and present it!
 2. Underpromise, overdeliver
 3. Aim for publication
 
