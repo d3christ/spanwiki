@@ -10,7 +10,8 @@ Goals/Motivation:
 
 Design: 
 
-1. Make your poster as easy to read as possible
+1. Make your poster as easy to read as possible by minimizing the amount of text
+2. Consider indicating what part of a figure the viewer should be focusing on (such as clearly marking the ROI with a red circle)
 
 Submission:
 
