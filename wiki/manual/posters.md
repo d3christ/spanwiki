@@ -6,7 +6,7 @@ Poster template in keynote format: https://github.com/spanlab/spanwiki/blob/mast
 
 Poster template in powerpoint format: https://github.com/spanlab/spanwiki/blob/master/wiki/manual/old-manual/SPANLab_PosterTemplate2018.pptx
 
-<b>Goals/Motivation:<b>
+<b>Goals/Motivation:</b>
 
 Benefits of presenting a poster include
 
@@ -15,14 +15,14 @@ Benefits of presenting a poster include
 3. Networking with potential employers
 4. Recon
 
-<b>Design:<b> 
+<b>Design:</b> 
 
 1. Make your poster as easy to read as possible by minimizing the amount of text
 2. Consider indicating what part of a figure the viewer should be focusing on (like marking an ROI with a red circle)
 3. Be specific with your results (an example would be to write "x increases y," rather than "x is related to y")
 4. Include the poster number and/or session number at the top to make it easier for people to find it during the presentation
 
-<b>Submission:<b>
+<b>Submission:</b>
 
 If you submit a poster, make sure you will be around to present it!
 
