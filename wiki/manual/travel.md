@@ -1,6 +1,6 @@
 # Conferences and travel
 
-Some of Spanlab's core conferences include:
+<b> Relevant conference </b>
 
 1. Society for Neuroeconomics (SNE): https://neuroeconomics.org
 2. Society for Neuroscience (SFN): 
