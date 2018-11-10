@@ -11,7 +11,7 @@
 
 <b> Conference expenses </b>
   
- Try to get funding for your trip through the following mechanisms:
+See if you can apply for funding for your trip through the travel funding mechanisms (also looks good on your vitae!):
  
  1. Graduate travel funding: 
  2. Society travel awards: By society (above)
