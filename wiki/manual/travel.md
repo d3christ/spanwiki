@@ -1,6 +1,6 @@
 # Conferences and travel
 
-<b> Relevant conference </b>
+<b> Relevant conferences </b>
 
 1. Society for Neuroeconomics (SNE): https://neuroeconomics.org
 2. Society for Neuroscience (SFN): 
