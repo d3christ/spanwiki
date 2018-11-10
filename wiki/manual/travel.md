@@ -1,6 +1,6 @@
 # Conferences and travel
 
-Some of the Spanlab's core conferences include:
+Some of Spanlab's core conferences include:
 
 1. Society for Neuroeconomics
 2. Society for Neuroscience
@@ -9,7 +9,7 @@ Some of the Spanlab's core conferences include:
 
 <b> Conference expenses </b>
   
- The Spanlab may reimburse conference expenses (check with Brian for information about the annual budget).  Possible expenses to be reimbursed include:
+ Spanlab may reimburse conference expenses (check with Brian for information about the annual budget).  Possible expenses to be reimbursed include:
  
  1. Flights
  2. Accommodation (hotel, AirBnb, etc.)
