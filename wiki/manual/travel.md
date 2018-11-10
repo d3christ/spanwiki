@@ -17,7 +17,7 @@ Some of Spanlab's core conferences include:
  2. Society travel awards: By society (above)
  3. ???
  
- If funding is not available and you are going to present, spanlab may be able to reimburse these conference expenses (ask Brian): 
+ If funding is not available and you are going to present, spanlab may be able to reimburse these expenses (ask Brian): 
  
  1. Flights
  2. Accommodation (hotel, AirBnb, etc.)
