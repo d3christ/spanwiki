@@ -9,7 +9,7 @@ Some of the Spanlab's core conferences include:
 
 <b> Conference expenses </b>
   
- The Spanlab may reimburse conference expenses (check with Brian for information about the annual budget).  Possible expenses to be reimburses include:
+ The Spanlab may reimburse conference expenses (check with Brian for information about the annual budget).  Possible expenses to be reimbursed include:
  
  1. Flights
  2. Accommodation (hotel, AirBnb, etc.)
