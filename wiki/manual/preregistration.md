@@ -12,7 +12,7 @@ Instructions for preregistering on Open Science Framework (OSF): http://help.osf
 
 1. Upon completion of your study, consider uploading your data and scripts to the OSF data repository.  If it's a neuroimaging study, consider uploading to Neurovault, a public repository for brain maps, parcellations, and atlases: https://neurovault.org/
 
-2. Another reason to upload your data is that it's a useful storage method
+2. Another reason to upload your data is that it's a useful storage method! 
 
 3. Avoid uploading raw brain data, as it is unnecessary, very bulky, and could even be identifiable/traced back to the subject based on anatomy
 
