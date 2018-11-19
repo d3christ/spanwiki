@@ -3,11 +3,11 @@
 <b> Relevant conferences </b>
 
 1. Society for Neuroeconomics (SNE): https://neuroeconomics.org
-2. Society for Neuroscience (SFN): 
-3. Social and Affective Neuroscience Society (SANS): 
-4. Society for Affective Science (SAS):
-5. Organization for Human Brain Mapping (OHBM): 
-6. Association for Psychological Science (APS): 
+2. Society for Neuroscience (SFN): https://www.sfn.org/
+3. Social and Affective Neuroscience Society (SANS): https://www.socialaffectiveneuro.org/
+4. Society for Affective Science (SAS): https://society-for-affective-science.org/
+5. Organization for Human Brain Mapping (OHBM): https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3267
+6. Association for Psychological Science (APS): https://www.psychologicalscience.org/
 
 <b> Conference expenses </b>
   
