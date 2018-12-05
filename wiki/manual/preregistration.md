@@ -14,7 +14,7 @@ Note that preregistered hypotheseses could be general or specific, and that it's
 
 <b>Additional notes:</b>
 
-1. After completing your study, consider uploading your data and scripts to the OSF data repository (see above link).  For FMRI studies, you can also upload your maps to Neurovault (a public repository for brain maps, parcellations, and atlases: https://neurovault.org/)
+1. After completing your study, consider uploading your data and scripts to the OSF data repository (see above link).  For FMRI studies, you can also upload your maps to Neurovault (a public repository for brain maps, parcellations, and atlases: https://neurovault.org/).  Here is an example: https://neurovault.org/collections/FNVNSLEC/
 
 2. As an added benefit, archiving your data also stores it and makes it easily available for later use!
 
