@@ -41,6 +41,8 @@
 
 ### Writing
 
+[Planning] (fmrispecsheet.md)
+
 [Reviewing](reviewing.md)
 
 [Revising](revising.md)
