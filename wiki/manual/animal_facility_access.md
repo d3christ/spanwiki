@@ -1,4 +1,4 @@
-Instructions for getting access to the Small Animal Imaging Facility:
+**Instructions for getting access to the Small Animal Imaging Facility:**
 
 Contact Laura Pisani (lpisani@stanford.edu), who will send you the necessary paperwork which will need to be signed by a PI.
 
@@ -26,8 +26,13 @@ Here is the website where it is possible to view the facility's schedule:
 
 http://med.stanford.edu/mips/aboutus/facilities/sci3.html
 
+List of instruments and hourly rates:
+
+http://med.stanford.edu/content/dam/sm/mips/documents/aboutus/facilities/clark/sci3/SCi3-rates-2018.pdf
+
 Reserve an instrument: 
 
 https://stanford.ilabsolutions.com/landing/7
+
 
 
