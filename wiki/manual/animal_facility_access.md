@@ -1,6 +1,6 @@
 **Instructions for getting access to the Small Animal Imaging Facility:**
 
-Contact Laura Pisani (lpisani@stanford.edu), who will send you the necessary paperwork which will need to be signed by a PI.
+Pick up a packet at the Clark Center front desk, which will give step-by-step instructions about how to get access to the facility.  Contact Laura Pisani (lpisani@stanford.edu) with any questions.  
 
 There are several trainings you will have to complete, which can be access through your Stanford Axess page, under "STARS": 
 
@@ -20,13 +20,16 @@ There are several trainings you will have to complete, which can be access throu
 
 8. Chemical Safety for Laboratories
 
-Drop off paperwork at the Clark Center front desk (typically the paperwork gets processed in 24 hours to be granted access to the facility)
+Depending on the type of experiment you will be conducting, you may also have to complete an in-person training (VSC-0022B),
+which you can register for online.
 
-Here is the website where it is possible to view the facility's schedule:
+After completing all necessary trainings and getting a PI's signature, drop off paperwork at the Clark Center front desk (typically the paperwork gets processed in 24 hours to be granted access to the facility)
+
+View the facility's schedule and check availability:
 
 http://med.stanford.edu/mips/aboutus/facilities/sci3.html
 
-List of instruments and hourly rates:
+View list of instruments and hourly rates:
 
 http://med.stanford.edu/content/dam/sm/mips/documents/aboutus/facilities/clark/sci3/SCi3-rates-2018.pdf
 
