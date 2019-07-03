@@ -22,8 +22,12 @@ There are several trainings you will have to complete, which can be access throu
 
 Drop off paperwork at the Clark Center front desk (typically the paperwork gets processed in 24 hours to be granted access to the facility)
 
-Here is the website where it is possible to view the facility's schedule and reserve an instrument:
+Here is the website where it is possible to view the facility's schedule:
 
 http://med.stanford.edu/mips/aboutus/facilities/sci3.html
+
+Reserve an instrument: 
+
+https://stanford.ilabsolutions.com/landing/7
 
 
