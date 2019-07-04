@@ -20,12 +20,13 @@ There are several trainings you will have to complete, which can be access throu
 
 8. Chemical Safety for Laboratories
 
-Depending on the type of experiments you will be conducting, you may also have to do an in-person training (VSC-0022B),
-which you can register for online as for the online trainings.
+Depending on the type of experiments you will be conducting, you may also have to do an in-person training (VSC-0022B), which you can register for online, as for the other trainings.  
 
-After completing all necessary trainings and getting a PI's signature, drop off paperwork at the Clark Center front desk (typically the paperwork gets processed in 24 hours and you'll be granted access to the facility)
+After completing all necessary trainings, send Laura a screenshot of your "All Learning" summary page, as confirmation of your training completion.  You can also print out your completion certificates, to be submitted later along with the instruction packet. You will need to meet with Laura in person to get her signature on a document explaining that the facility houses other research using radioactive particles.
 
-View the facility's schedule and check availability:
+Lastly, after getting a PI's signature on the instruction packet, drop off all paperwork (including completion certificates) at the Clark Center front desk (typically the paperwork gets processed in 24 hours and you'll be granted access to the facility)
+
+View the facility's schedule and check availability:   
 
 http://med.stanford.edu/mips/aboutus/facilities/sci3.html
 
