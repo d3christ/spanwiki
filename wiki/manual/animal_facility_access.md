@@ -20,10 +20,10 @@ There are several trainings you will have to complete, which can be access throu
 
 8. Chemical Safety for Laboratories
 
-Depending on the type of experiment you will be conducting, you may also have to complete an in-person training (VSC-0022B),
-which you can register for online.
+Depending on the type of experiments you will be conducting, you may also have to do an in-person training (VSC-0022B),
+which you can register for online as for the online trainings.
 
-After completing all necessary trainings and getting a PI's signature, drop off paperwork at the Clark Center front desk (typically the paperwork gets processed in 24 hours to be granted access to the facility)
+After completing all necessary trainings and getting a PI's signature, drop off paperwork at the Clark Center front desk (typically the paperwork gets processed in 24 hours and you'll be granted access to the facility)
 
 View the facility's schedule and check availability:
 
