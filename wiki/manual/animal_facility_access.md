@@ -10,7 +10,7 @@ There are several trainings you will have to complete, which can be access throu
 
 3. Biosafety
 
-4. Ergonomics
+4. Computer Workstation Ergonomics
 
 5. Compressed Gas Safety
 
