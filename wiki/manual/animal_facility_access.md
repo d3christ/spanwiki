@@ -2,7 +2,7 @@
 
 Pick up a packet at the Clark Center front desk, which will give step-by-step instructions about how to get access to the facility.  Contact Laura Pisani (lpisani@stanford.edu) with any questions.  
 
-There are several trainings you will have to complete, which can be access through your Stanford Axess page, under "STARS": 
+There are several trainings you will have to complete, which can be accessed through your Stanford Axess page, under "STARS": 
 
 1. General Safety
 
@@ -24,7 +24,7 @@ Depending on the type of experiments you will be conducting, you may also have t
 
 After completing all necessary trainings, send Laura a screenshot of your "All Learning" summary page, as confirmation of your training completion.  You can also print out your completion certificates, to be submitted later along with the instruction packet. You will need to meet with Laura in person to get her signature on a document explaining that the facility houses other research using radioactive particles.
 
-Lastly, after getting a PI's signature on the instruction packet, drop off all paperwork (including completion certificates) at the Clark Center front desk (typically the paperwork gets processed in 24 hours and you'll be granted access to the facility)
+Lastly, after getting a PI's signature on the instruction packet, drop off all paperwork (including completion certificates) at the Clark Center front desk (typically the processing takes 24 hours)
 
 View the facility's schedule and check availability:   
 
