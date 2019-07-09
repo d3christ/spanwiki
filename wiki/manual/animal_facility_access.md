@@ -24,7 +24,7 @@ Depending on the type of experiments you will be conducting, you may also have t
 
 After completing all necessary trainings, send Laura a screenshot of your "All Learning" summary page, as confirmation of your training completion.  You can also print out your completion certificates, to be submitted later along with the instruction packet. You will need to meet with Laura in person to get her signature on a document explaining that the facility houses other research using radioactive particles.
 
-Lastly, after getting a PI's signature on the instruction packet, drop off all paperwork (including completion certificates) at the Clark Center front desk (typically the processing takes 24 hours)
+Lastly, after getting a PI's signature on the instruction packet, drop off all paperwork (including completion certificates) at the Clark Center front desk (typically the processing takes 24 hours). Then, they will email you saying that the paperwork is ready to be picked up, so you can go pick it up and go to the Photo ID office in the basement of the West Pavilion at the Stanford Hospital (room B06) to get your photo taken and pick up your ID.
 
 View the facility's schedule and check availability:   
 
