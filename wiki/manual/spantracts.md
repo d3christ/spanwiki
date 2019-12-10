@@ -15,9 +15,9 @@ Brain regions communicate via long-range axonal connections, referred to as "whi
 * [matlab package, AFQ](https://github.com/yeatmanlab/AFQ)
 * [mrtrix 3.0](http://www.mrtrix.org/) 
 * [freesurfer](https://surfer.nmr.mgh.harvard.edu/) 
-* [in-house custom scripts, spantracts](https://github.com/spanlab/spantoolbox/tree/master/spantracts)
+* [spantracts (in-house custom scripts for running this pipeline)](https://github.com/spanlab/spantoolbox/tree/master/spantracts)
 
-### directory structure 
+### Directory structure 
 
 Pipeline assumes the following directory structure:
 
@@ -32,6 +32,16 @@ chmod 777 *sh
 chmod 777 *py
 ```
 to be able to execute them. This only needs to be run once. 
+
+
+### Paths
+
+make sure matlab has access to all the relevant paths for running this pipeline. At the matlab command line, type: 
+```
+path(path, 'path/to/directories/with/matlab/scripts')
+
+```
+where 'path/to/directories/with/matlab/scripts' is, e.g., 'projectdir/scripts'. 
 
 
 ## Pipeline (#pipeline)
