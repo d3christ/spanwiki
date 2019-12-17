@@ -37,7 +37,7 @@
 
 [Tracing relevant circuits; Josiah Leong's scripts](https://github.com/josiahl/spantracts)
 
-[Tracing relevant circuits; Kelly MacNiven's scripts, Dec 2019](spantracts.md)
+[Tracing relevant circuits; Kelly MacNiven's scripts, Dec 2019](https://github.com/kellyhennigan/spantracts_DWIworkshop)
 
 
 ### Writing

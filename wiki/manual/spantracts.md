@@ -16,6 +16,7 @@ Brain regions communicate via long-range axonal connections, referred to as "whi
 * [mrtrix 3.0](http://www.mrtrix.org/) 
 * [freesurfer](https://surfer.nmr.mgh.harvard.edu/) 
 * [spantracts (in-house custom scripts for running this pipeline)](https://github.com/spanlab/spantoolbox/tree/master/spantracts)
+* [ANTs (coregistration software)](http://stnava.github.io/ANTs/)
 
 ### Directory structure 
 
@@ -50,9 +51,9 @@ where 'path/to/directories/with/matlab/scripts' is, e.g., 'projectdir/scripts'.
 - [Acpc-align t1 data](#acpc-align-t1-data)
 - [Run freesurfer recon](#run-freesurfer-recon)
 - [Convert freesurfer files to nifti and save out ROI masks](#convert-freesurfer-files-to-nifti-and-save-out-roi-masks)
-- [Convert midbrain ROI from standard > native space](#convert-midbrain-roi-from-standard->-native-space)
+- [Convert non-anatomical ROIs from standard to native space](#convert-non-anatomical-ROIs-from-standard-to-native-space)
 - [Pre-process diffusion data](#pre-process-diffusion-data)
-- [Mrtrix pre-processing steps](#rtrix-pre-processing-steps)
+- [Mrtrix pre-processing steps](#mrtrix-pre-processing-steps)
 - [fiber tractography](#track-fibers)
 - [Clean fiber bundles](#clean-fiber-bundles)
 - [Save out measurements from fiber bundles cores](#save-out-measurements-from-fiber-bundles-cores)
@@ -97,7 +98,7 @@ Saves out files to directory, **projectdir/data/subjid/anat_proc**
 
 
 
-### Convert midbrain ROI from standard > native space
+### Convert non-anatomical ROIs from standard to native space
 From terminal command line, run:
 ```
 t12tlrc_ANTS_script.py
@@ -106,7 +107,7 @@ and then in matlab, run:
 ```
 xformROIs_script.m
 ```
-To estimate the tranform (using ANTs) between subject's acpc-aligned native space and standard space and to apply the inverse transform to take a midbrain ROI in standard space > subject native space. 
+To estimate the tranform (using ANTs) between subject's acpc-aligned native space and standard space and to apply the inverse transform to take a given ROI in standard space > subject native space. 
 
 #### output
 Saves out acpc-aligned<->standard space transforms to directory, **projectdir/data/subjid/anat_proc**, and saves out a midbrain ROI ("DA.nii.gz") in directory: **projectdir/data/subjid/ROIs**
